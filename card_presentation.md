@@ -108,16 +108,30 @@
 ---
 
 ### **Tarjeta 001**
-**Título:** 
-**Consigna:** 
+**Título:** ¿QUIÉN LO DIJO?
+**Consigna:** Identifique la persona que dijo la frase. 
+**Descripción:** Seis globos con frases muy conocidas de personalidades o personajes mediáticos.
 
 **Opciones:**
+- A: "Yo he venido aquí a hablar de mi libro."
+- B: "Si me queréis, irse."
+- C: "Yo por mi hija mato."
+- D: "¿Por qué no te callas?"
+- E: "¿Dientes, dientes, que es lo que les jode!"
+- F: "En dos palabras: im-presionante."
 
 
 **Imagen del Frente:**
 ![](Rosa001_Frente.png)
 
 **Respuestas:**
+- A: Paco Umbral
+- B: Lola Flores
+- C: Belén Esteban
+- D: Juan Carlos de Borbón
+- E: Isabel Pantoja
+- F: Jesulín de Ubrique
+
 
 **Imagen del Dorso:**
 ![](Rosa001_Dorso.png)
