@@ -123,7 +123,7 @@
 - G: OT9   
 - H: OT11   
 
-**Tarjeta - Frente:**  
+**Tarjeta - Dorso:**  
 
 ![OPERACIÓN TRIUNFO - Frente](images/Celeste003_Dorso.png)
 
@@ -206,6 +206,11 @@
 - E: TVG
 - F: Telemadrid 
 
+
+**Tarjeta - Frente:**  
+
+![TELEVISIÓN AUTONÓMICA - Frente](images/Rosa003_Frente.png)
+
 **Respuestas:**
 - A: TV3 - Catalunya
 - B: ETB - Euskadi
@@ -213,12 +218,6 @@
 - D: À Punt - Comunitat Valenciana
 - E: TVG - Galicia
 - F: Telemadrid - Comunidad de Madrid
-
-**Tarjeta - Frente:**  
-
-![TELEVISIÓN AUTONÓMICA - Frente](images/Rosa003_Frente.png)
-
-**Respuestas:**
 
 **Tarjeta - Dorso:**  
 
