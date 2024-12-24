@@ -6,10 +6,10 @@
 
 ### **Tarjeta 001**
 **Título:** ESPAÑA DE ORO  
-**Consigna:** Ubica a los jugadores según los torneos que ganaron.  
+**Consigna:** Ubica a los jugadores según los torneos que ganaron  
 **Descripción:** Presentación de esquema de intersecciones entre tres torneos de fútbol ganados por España. 
 
-**Esquema** 
+**Esquema:** 
 - A: Euro 2008  
 - B: Euro 2008 y Mundial 2010 
 - C: Mundial 2010 
@@ -27,7 +27,9 @@
 - Andrés Palop
 - Carles Puyol
 - Fernando Torres
-- Nadie ganó solo este/os torneo/s
+- Nadie ganó solo este/os torneo/s  
+
+**Tarjeta - Frente:**  
 
 ![ESPAÑA DE ORO - Frente](images/Celeste001_Frente.png)
 
@@ -41,23 +43,25 @@
 - G: Jordi Alba  
 - H: Santiago Cañizares  
 
+**Tarjeta - Dorso:**  
+
 ![ESPAÑA DE ORO - Dorso](images/Celeste001_Dorso.png)
 
 ---
 
 ### **Tarjeta 002**
 **Título:** SERIES MÍTICAS  
-**Consigna:** Ordena las series según los años de emisión.  
+**Consigna:** Ordena las series según los años de emisión  
 **Descripción:** Línea temporal de permanencia de ocho series.
 
-**Esquema**
+**Esquema:**
 - A: 1999-2009  
 - B: 1999-2006  
 - C: 2000-2012  
 - D: 2001-2024  
 - E: 2003-2008  
 - F: 2005-2024
-- F: 2005-2014   
+- G: 2005-2014   
 - H: 2007-presente
 
 **Opciones:**
@@ -68,7 +72,9 @@
 - El comisario
 - Hospital central
 - La que se avecina
-- Los Serrano
+- Los Serrano   
+
+**Tarjeta - Frente:**  
 
 ![Series Míticas - Frente](images/Celeste002_Frente.png)
 
@@ -79,50 +85,68 @@
 - D: Cuéntame  
 - E: Los Serrano  
 - F: Amar...
-- F: Aída   
-- H: La que se avecina 
+- G: Aída   
+- H: La que se avecina  
+
+**Tarjeta - Dorso:**  
 
 ![SERIES MÍTICAS - Dorso](images/Celeste002_Dorso.png)
 
 ---
 
 ### **Tarjeta 003**
-**Título:**   
-**Consigna:**
-**Descripción**  
+**Título:** OPERACIÓN TRIUNFO   
+**Consigna:** Identifique la edición de OT de cada cantante    
+**Descripción:** Retratos de cantantes de OT para asignar edición.
 
-**Opciones:**
+**Retratos:**
+- A: Edurne  
+- B: Alba Reche  
+- C: Manu Carrasco  
+- D: Chenoa  
+- E: Chica Sobresalto  
+- F: Pablo López
+- G: Amaia   
+- H: Samantha   
 
+**Tarjeta - Frente:**  
 
-**Imagen del Frente:**
-![](Celeste003_Frente.png)
+![OPERACIÓN TRIUNFO - Frente](images/Celeste003_Frente.png)
 
 **Respuestas:**
+- A: OT4  
+- B: OT10
+- C: OT2 
+- D: OT1  
+- E: OT11  
+- F: OT8
+- G: OT9   
+- H: OT11   
 
+**Tarjeta - Frente:**  
 
-**Imagen del Dorso:**
-![](Celeste003_Dorso.png)
+![OPERACIÓN TRIUNFO - Frente](images/Celeste003_Dorso.png)
 
 ## **Tarjetas Rosas**
 
 ---
 
 ### **Tarjeta 001**
-**Título:** ¿QUIÉN LO DIJO?
-**Consigna:** Identifique la persona que dijo la frase. 
+**Título:** ¿QUIÉN LO DIJO?     
+**Consigna:** Identifique la persona que dijo la frase    
 **Descripción:** Seis globos con frases muy conocidas de personalidades o personajes mediáticos.
 
 **Opciones:**
 - A: "Yo he venido aquí a hablar de mi libro."
 - B: "Si me queréis, irse."
-- C: "Yo por mi hija mato."
+- C: "Yo por mi hija MA-TO."
 - D: "¿Por qué no te callas?"
 - E: "¿Dientes, dientes, que es lo que les jode!"
-- F: "En dos palabras: im-presionante."
+- F: "En dos palabras: im-presionante." 
 
+**Tarjeta - Frente:**  
 
-**Imagen del Frente:**
-![](Rosa001_Frente.png)
+![¿QUIÉN LO DIJO? - Frente](images/Rosa001_Frente.png)
 
 **Respuestas:**
 - A: Paco Umbral
@@ -130,46 +154,75 @@
 - C: Belén Esteban
 - D: Juan Carlos de Borbón
 - E: Isabel Pantoja
-- F: Jesulín de Ubrique
+- F: Jesulín de Ubrique     
 
+**Tarjeta - Dorso:**  
 
-**Imagen del Dorso:**
-![](Rosa001_Dorso.png)
+![¿QUIÉN LO DIJO? - Dorso](images/Rosa001_Dorso.png)
 
 ---
 
 ### **Tarjeta 002**
-**Título:**
-**Consigna:**
+**Título:** LA CASA DE PAPEL    
+**Consigna:** Identifique al actor o actriz según la ciudad que denomina su personaje    
+**Descripción:** Imágenes icónicas de las ciudades del nombre los personajes.
 
-**Opciones:**
+**Gráficos:**
+- A: Denver
+- B: Helsinki
+- C: Río de Janeiro
+- D: Berlín
+- E: Tokio
+- F: Lisboa
 
-**Imagen del Frente:**
-![](Rosa002_Frente.png)
+**Tarjeta - Frente:**  
+  
+![LA CASA DE PAPEL - Frente](images/Rosa002_Frente.png)
 
 **Respuestas:**
--  
+- A: Denver - Jaime Lorente
+- B: Helsinki - Darko Perić
+- C: Río de Janeiro - Miguel Herrán
+- D: Berlín - Pedro Alonso
+- E: Tokio - Úrsula Corberó
+- F: Lisboa - Itziar Ituño
 
-**Imagen del Dorso:**
-![](Rosa002_Dorso.png)
+**Tarjeta - Dorso:**  
+
+![LA CASA DE PAPEL - Dorso](images/Rosa002_Dorso.png)
 
 ---
 
 ### **Tarjeta 003**
-**Título:**   
-**Consigna:** 
+**Título:**  TELEVISIÓN AUTONÓMICA      
+**Consigna:** Indentifique los canales autonómicos según su logo    
+**Descripción:** Logos de los canales autonómicos.
 
-**Opciones:**
+**Logos:**   
+- A: TV3
+- B: ETB
+- C: Canal Sur
+- D: À Punt
+- E: TVG
+- F: Telemadrid 
 
+**Respuestas:**
+- A: TV3 - Catalunya
+- B: ETB - Euskadi
+- C: Canal Sur - Andalucía
+- D: À Punt - Comunitat Valenciana
+- E: TVG - Galicia
+- F: Telemadrid - Comunidad de Madrid
 
-**Imagen del Frente:**
-![](Rosa003_Frente.png)
+**Tarjeta - Frente:**  
+
+![TELEVISIÓN AUTONÓMICA - Frente](images/Rosa003_Frente.png)
 
 **Respuestas:**
 
+**Tarjeta - Dorso:**  
 
-**Imagen del Dorso:**
-![](Rosa003_Dorso.png)
+![TELEVISIÓN AUTONÓMICA - Dorso](images/Rosa003_Dorso.png)
 
 ---
 
