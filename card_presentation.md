@@ -141,7 +141,7 @@
 - B: "Si me queréis, irse."
 - C: "Yo por mi hija MA-TO."
 - D: "¿Por qué no te callas?"
-- E: "¿Dientes, dientes, que es lo que les jode!"
+- E: "¡Dientes, dientes, que es lo que les jode!"
 - F: "En dos palabras: im-presionante." 
 
 **Tarjeta - Frente:**  
