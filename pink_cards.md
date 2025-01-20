@@ -6,6 +6,7 @@
 **Descripción:** Seis globos con frases muy conocidas de personalidades o personajes mediáticos.
 
 **Opciones:**
+
 - A: "Yo he venido aquí a hablar de mi libro."
 - B: "Si me queréis, irse."
 - C: "Yo por mi hija MA-TO."
@@ -18,6 +19,7 @@
 ![FRASES](assets/accepted_cards/images/pink_001-01--phrases.png)
 
 **Respuestas:**
+
 - A: Paco Umbral
 - B: Lola Flores
 - C: Belén Esteban
@@ -37,6 +39,7 @@
 ![TELEVISIÓN AUTONÓMICA](assets/accepted_cards/images/pink_002-01--tv-logos.png)
 
 **Respuestas:**
+
 - A: TV3 - Catalunya
 - B: ETB - Euskadi
 - C: Canal Sur - Andalucía
@@ -66,6 +69,7 @@
 ![Ana Rosa Quintana](assets/accepted_cards/images/pink_003-06--ana-rosa-quintana.png)
 
 **Respuestas:**
+
 - A: D corazón - Anne Igartiburu
 - B: Dónde estás corazón - Jaime Cantizano
 - C: Sálvame - Jorge Javier Vázquez
@@ -106,6 +110,7 @@
 
 
 **Respuestas:**
+
 - A: Los Secretos (tema: Déjame)
 - B: Dun Can Dhu (tema: 100 gaviotas)
 - C: Tequila (tema: Salta)
@@ -253,6 +258,7 @@ ALIADA / AUCHAN / BONTÉ / EROSKI / HACENDADO / MILBONA
 ![Autovias](assets/accepted_cards/images/pink_009-01--autovias.jpg)
 
 **Opciones:**
+
 A1 / A2 / A3 / A4 / A5 / A6
 
 **Respuestas:**
@@ -286,6 +292,7 @@ A1 / A2 / A3 / A4 / A5 / A6
 ![Pascual](assets/accepted_cards/images/pink_010-06--pascual.png)
 
 **Respuestas:**
+
 - A: Puleva
 - B: Kaiku
 - C: Central Lechera Asturiana
@@ -331,7 +338,7 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 
 **Alternativa:**
 
-**Nota:**  puede pasar celeste con estos cambios:
+**NOTA:**  puede pasar celeste con estos cambios:
  - agregando a Francisco de Quevedo (La vida del Buscón) y Garcilaso de la Vega (Obras de Juan Borcán y [autor])
  - ajustando dificultad de Crevantes (Novelas ejemplares) y Lope (El caballero de Olmedo)
 
@@ -358,6 +365,7 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 
 
 **Respuestas:**
+
 - A: La he liado parda
 - B: Caranchoa
 - C: Es mejor eso que morirse
@@ -407,6 +415,7 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - F: "A caballo regalado..."
 
 **Respuestas:**
+
 - A: "...ande o no ande"
 - B: "...viruelas"
 - C: "...mona se queda"
@@ -414,7 +423,7 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - E: "...luvias mil"
 - F: "...No le mieres el diente"
 
-**Aletenativas:** (dejadas fuera con dolor)
+**Alternativas:** (dejadas fuera con dolor)
 
 - "Hay más días --- que longanizas"
 - "Oveja que bala --- bocado que pierde"

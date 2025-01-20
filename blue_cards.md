@@ -23,7 +23,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 ## **Tarjeta 002**
 **Título:** LOS AUSTRIAS     
 **Consigna:** Indentifique los miembros de la casa real por relación de parentezco    
-**Descripción:** Árbol genealógico de la casa de los Austrias con algunos nombres faltantes
+**Descripción:** Árbol genealógico de la casa de los Austrias con algunos nombres faltantes.
 
 **Recursos:**  
 
@@ -47,7 +47,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 ## **Tarjeta 003**
 **Título:** PARTIDOS POLÍTICOS     
 **Consigna:** Indentifique el nombre del partido o federación autonómicos según su logo    
-**Descripción:** Logos de partidos políticos autonómicos (ERC, CC, Compromís, PNV, CHA, Bildu, BNG, PRC)
+**Descripción:** Logos de partidos políticos autonómicos (ERC, CC, Compromís, PNV, CHA, Bildu, BNG, PRC).
 
 **Recursos:**  
 
@@ -84,13 +84,14 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 ## **Tarjeta 004**
 **Título:** CHICAS ALMODÓVAR     
 **Consigna:** Indentifique la actriz según la película  
-**Descripción:** Esquema de intersección de círculos con películas
+**Descripción:** Esquema de intersección de círculos con películas.
 
 **Recursos:**  
 
 ![Esquema-Almodóvar](assets/accepted_cards/images/pink_012-01--chicas-alomodovar.png)
 
 **Respuestas:**
+
 - A: 
 - B: 
 - C: 
@@ -100,18 +101,17 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 - G: 
 - H:
 
-Nota: Tarjeta lista, quité el contenido para no confundir por cambio de pelicula. Cuando revise que no afecta als respuestas la actualizo. 
+**NOTA:** Tarjeta lista, quité el contenido para no confundir por cambio de pelicula. Cuando revise que no afecta las respuestas la actualizo. 
 ---
 
 ## **Tarjeta 005**
-**Título:** COPA DEL REY    
-**Consigna:** Ordene los equipos por número de copas
-**Descripción:** Prirámide o esquema de mayor a menor para ordenar por número de copas
+**Título:** COPA DEL REY  
+**Consigna:** Ordene los equipos por número de copas  
+**Descripción:** Prirámide o esquema de mayor a menor para ordenar por número de copas.
 
 **Opciones:**  
 
 Arenas de Getxo / Athletic Club / Deportivo La Coruña / Real Madrid / Real Unión / Sevilla / Valencia / Zaragoza
-
 
 **Respuestas:**
 
@@ -127,11 +127,12 @@ Arenas de Getxo / Athletic Club / Deportivo La Coruña / Real Madrid / Real Uni�
 ---
 
 ## **Tarjeta 006**
-**Título:** MARISOL
+**Título:** MARISOL  
 **Consigna:** Ordene las películas por año   
 **Descripción:** Línea temporal con años marcados
 
 **Opciones:**  
+
 Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El poder del deseo / Marisol Rumbo a Río / Solo los dos / Tómbola / Un rayo de luz 
 
 **Respuestas:**
@@ -150,7 +151,7 @@ Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El p
 ## **Tarjeta 007**
 **Título:** CERVEZAS  
 **Consigna:** Indentifique la comunidad autónoma según su cerveza  
-**Descripción:** Logos de cervezas
+**Descripción:** Logos de cervezas.
 
 **Recursos:**  
 
@@ -173,7 +174,7 @@ Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El p
 
 **Respuestas:**
 
-- A: Turia (Valencia)
+- A: Valencia (Turia)
 - B: Castilla La Mancha (Calatrava)
 - C: Galicia (Estrella Galicia)
 - D: Andalucía (Cruzcampo)
@@ -185,13 +186,12 @@ Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El p
 ---
 
 ## **Tarjeta 008**
-**Título:** PREMIOS GOYA
-
-**Consigna:** Ordene de mayor a menor las personas con más premios Goya
-
-**Descripción:** Nombres de personas con esquema de ordenamiento
+**Título:** PREMIOS GOYA  
+**Consigna:** Ordene de mayor a menor las personas con más premios Goya  
+**Descripción:** Nombres de personas con esquema de ordenamiento.
 
 **Opciones:**  
+
 ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ / PEDRO ALMODÓVAR / PENÉLOPE CRUZ / RODRIGO SOROGOYEN / VERÓNICA FORQUÉ
 
 **Respuestas:**
@@ -205,5 +205,6 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 - G: Penélope Cruz (3)
 - H: Maribel Verdú (2)
 
-NOTA: Puede hacerse con películas, se desactualiza menos.
+**NOTA:** Puede hacerse con películas, se desactualiza menos.
+
 ---
