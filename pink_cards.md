@@ -39,7 +39,7 @@
 **Respuestas:**
 - A: TV3 - Catalunya
 - B: ETB - Euskadi
-- C: Canal Sur - Andalucí-
+- C: Canal Sur - Andalucía
 - D: À Punt - Comunitat Valenciana
 - E: TVG - Galicia
 - F: Telemadrid - Comunidad de Madrid
@@ -63,7 +63,7 @@
 
 ![Santi Acosta](assets/accepted_cards/images/pink_003-05--santi-acosta.png)
 
-![Ana Rosa Qiuntana](assets/accepted_cards/images/pink_003-06--ana-rosa-quintana.png)
+![Ana Rosa Quintana](assets/accepted_cards/images/pink_003-06--ana-rosa-quintana.png)
 
 **Respuestas:**
 - A: D corazón - Anne Igartiburu
@@ -246,7 +246,7 @@ ALIADA / AUCHAN / BONTÉ / EROSKI / HACENDADO / MILBONA
 ## **Tarjeta 009**
 **Título:** CARRETERAS     
 **Consigna:** Identifique la autovía radial por su punto de llegada  
-**Descripción:** Mapa de la red de autovías radiales, o líneas rectas si se busca sumar dificulatad.
+**Descripción:** Mapa de la red de autovías radiales, o líneas rectas si se busca sumar dificulatad. (Reemplazar en el dibujo los nombres de las autovías y añadir las ciudades destino)
 
 **Recursos:**  
 
@@ -294,6 +294,7 @@ A1 / A2 / A3 / A4 / A5 / A6
 - F: Pascual
 
 **Alternativas:** El Buen Pastor, Leyma, Ato, Celta, Llet Nostra
+
 ---
 
 ## **Tarjeta 11**
@@ -320,6 +321,7 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 ![Lope de Vega](assets/accepted_cards/images/pink_011-06--lope.jpg)
 
 **Respuestas:**
+
 - A: La vida es sueño
 - B: Don Quijote de la Mancha
 - C: El Lazarillo de Tormes
@@ -329,14 +331,15 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 
 **Alternativa:**
 
-Nota: puede pasar celeste con estos cambios:
-1- agregando a Francisco de Quevedo (La vida del Buscón) y Garcilaso de la Vega (Obras de Juan Borcán y [autor])
-2- ajustando dificultad de Crevantes (Novelas ejemplares) y Lope (El caballero de Olmedo)
+**Nota:**  puede pasar celeste con estos cambios:
+ - agregando a Francisco de Quevedo (La vida del Buscón) y Garcilaso de la Vega (Obras de Juan Borcán y [autor])
+ - ajustando dificultad de Crevantes (Novelas ejemplares) y Lope (El caballero de Olmedo)
+
 ---
 
 ## **Tarjeta 12**
 **Título:** VIRAL     
-**Consigna:** Indentifique el vídeo viral por su protagonista
+**Consigna:** Indentifique el vídeo viral por su protagonista  
 **Descripción:** Fotograma icónico de un video viral o su protagonista.
 
 **Recursos:**  
@@ -365,7 +368,7 @@ Nota: puede pasar celeste con estos cambios:
 ---
 
 ## **Tarjeta 013**
-**Título:** CAMPANADAS     
+**Título:** CAMPANADAS  
 **Consigna:** Indentifique a la persona con quien presentó las campanadas  
 **Descripción:** Nombre de una de las parejas del dúo y otra faltante (como la tarjeta de parejas de futbolistas).
 
@@ -379,6 +382,7 @@ Nota: puede pasar celeste con estos cambios:
 - F: Roberto Leal (A. I)
 
 **Respuestas:**
+
 - A: Ramón García
 - B: Paz Padilla
 - C: Alberto Chicote
@@ -390,7 +394,7 @@ Nota: puede pasar celeste con estos cambios:
 
 ## **Tarjeta 014**
 **Título:** REFRANES  
-**Consigna:** Complete el refrán 
+**Consigna:** Complete el refrán  
 **Descripción:** Refranes con una parte faltante.
 
 **Opciones:**
