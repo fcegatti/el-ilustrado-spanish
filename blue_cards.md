@@ -88,7 +88,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 **Recursos:**  
 
-![Esquema-Almodóvar](assets/accepted_cards/images/pink_012-01--buru.png)
+![Esquema-Almodóvar](assets/accepted_cards/images/pink_012-01--chicas-alomodovar.png)
 
 **Respuestas:**
 - A: 
@@ -100,6 +100,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 - G: 
 - H:
 
+Nota: Tarjeta lista, quité el contenido para no confundir por cambio de pelicula. Cuando revise que no afecta als respuestas la actualizo. 
 ---
 
 ## **Tarjeta 005**

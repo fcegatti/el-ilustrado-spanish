@@ -134,7 +134,7 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 
 ![Sensodyne](assets/accepted_cards/images/pink_005-05--sensodyne.png)
 
-![Fluocaril](assets/accepted_cards/images/pink_005-06--fluocaril.png)
+![Fluocaril](assets/accepted_cards/images/pink_005-06--binaca.png)
 
 **Respuestas:**
 
@@ -143,9 +143,9 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 - C: Licor del polo
 - D: Signal
 - E: Sensodyne
-- F: Fluocaril
+- F: Binaca
 
-**Alterntivas:** Lacer, Binaca, Elmex, Parodontax
+**Alterntivas:** Lacer, Fluocaril, Elmex, Parodontax
 
 ---
 
