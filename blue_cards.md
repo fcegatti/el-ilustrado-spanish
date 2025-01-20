@@ -88,20 +88,19 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 **Recursos:**  
 
-![Esquema-Almodóvar](assets/accepted_cards/images/pink_012-01--chicas-alomodovar.png)
+![Esquema-Almodóvar](assets/accepted_cards/images/blue_004-01--chicas-alomodovar.png)
 
 **Respuestas:**
 
-- A: 
-- B: 
-- C: 
-- D: 
-- E: 
-- F:
-- G: 
-- H:
-
-**NOTA:** Tarjeta lista, quité el contenido para no confundir por cambio de pelicula. Cuando revise que no afecta las respuestas la actualizo. 
+- A: Rossy de Palma
+- B: Loles León
+- C: Carmen Machi
+- D: Chus Lampreave
+- E: Carmen Maura
+- F: Lola Dueñas
+- G: Penélope Crez
+- H: Marisa Paredes
+ 
 ---
 
 ## **Tarjeta 005**
