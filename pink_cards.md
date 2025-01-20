@@ -299,30 +299,39 @@ A1 / A2 / A3 / A4 / A5 / A6
 ## **Tarjeta 11**
 **Título:** SIGLO DE ORO   
 **Consigna:** Indentifique el autor de la abra.    
-**Descripción:** Retratos de poetas del siglo de Oro y nombres de las obras.
+**Descripción:** Retratos (con el nombre) de poetas del siglo de Oro y título de las obras como opciones.
+
+**Opciones:**
+
+Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es sueño / Primero sueño / Soledades 
 
 **Recursos:**  
 
-![01](assets/accepted_cards/images/pink_011-01--uno.png)
+![Pedro Calderón de la Barca](assets/accepted_cards/images/pink_011-01--calderon.jpg)
 
-![02](assets/accepted_cards/images/pink_011-02--dos.jpeg)
+![Miguel de Cervantes](assets/accepted_cards/images/pink_011-02--cervantes.jpg)
 
-![03](assets/accepted_cards/images/pink_011-03--tres.png)
+![Anónimo](assets/accepted_cards/images/pink_011-03--anonimo.jpg)
 
-![04](assets/accepted_cards/images/pink_011-04--cuatro.png)
+![Luis de Góngora](assets/accepted_cards/images/pink_011-04--gongora.jpg)
 
-![05](assets/accepted_cards/images/pink_011-05--cinco.png)
+![Sor Juana Inés de la Cruz](assets/accepted_cards/images/pink_011-05--juana.jpg)
 
-![06](assets/accepted_cards/images/pink_011-06--seis.png)
+![Lope de Vega](assets/accepted_cards/images/pink_011-06--lope.jpg)
 
 **Respuestas:**
-- A: 
-- B: 
-- C: 
-- D: 
-- E:
-- F: 
+- A: La vida es sueño
+- B: Don Quijote de la Mancha
+- C: El Lazarillo de Tormes
+- D: Soledades
+- E: Primero Sueño
+- F: Fuenteovejuna
 
+**Alternativa:**
+
+Nota: puede pasar celeste con estos cambios:
+1- agregando a Francisco de Quevedo (La vida del Buscón) y Garcilaso de la Vega (Obras de Juan Borcán y [autor])
+2- ajustando dificultad de Crevantes (Novelas ejemplares) y Lope (El caballero de Olmedo)
 ---
 
 ## **Tarjeta 12**
