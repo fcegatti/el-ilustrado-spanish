@@ -369,7 +369,7 @@ Nota: puede pasar celeste con estos cambios:
 **Consigna:** Indentifique a la persona con quien presentó las campanadas  
 **Descripción:** Nombre de una de las parejas del dúo y otra faltante (como la tarjeta de parejas de futbolistas).
 
-**Ropciones:**
+**Opciones:**
 
 - A: Raffaella Carrà (R. G.)
 - B: Jesús Vázquez (P. P)
@@ -385,5 +385,41 @@ Nota: puede pasar celeste con estos cambios:
 - D: David Broncano
 - E: Cristina Pardo
 - F: Anne Igartiburu
+
+---
+
+## **Tarjeta 014**
+**Título:** REFRANES  
+**Consigna:** Complete el refrán 
+**Descripción:** Refranes con una parte faltante.
+
+**Opciones:**
+
+- A: "Caballo grande..."
+- B: "A la vejez..."
+- C: "Aunque la mona se vista de seda..."
+- D: "Genio y figura..."
+- E: "Abril..."
+- F: "A caballo regalado..."
+
+**Respuestas:**
+- A: "...ande o no ande"
+- B: "...viruelas"
+- C: "...mona se queda"
+- D: "...hasta la sepultura"
+- E: "...luvias mil"
+- F: "...No le mieres el diente"
+
+**Aletenativas:** (dejadas fuera con dolor)
+
+- "Hay más días --- que longanizas"
+- "Oveja que bala --- bocado que pierde"
+- "Libro cerrado --- no saca letrado"
+- "Quien a buen árbol se arrima --- buena sombra le cobija"
+- "Santa Rita Rita --- lo que se da no se quita"
+- "Tanto va el cántaro a la fuente --- que al final se rompe"
+- "Haz el bien --- y no mires a quién"
+- "Muerto el perro --- se acabó la rabia"
+- "Nunca es tarde --- si la dicha es buena"
 
 ---
