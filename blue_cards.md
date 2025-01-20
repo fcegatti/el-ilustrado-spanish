@@ -84,7 +84,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 ## **Tarjeta 004**
 **Título:** CHICAS ALMODÓVAR     
 **Consigna:** Indentifique la actriz según la película  
-**Descripción:** Esquema de interseccción de círculos con películas
+**Descripción:** Esquema de intersección de círculos con películas
 
 **Recursos:**  
 
@@ -109,7 +109,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 **Opciones:**  
 
-Athletic Club / Deportivo de La Coruña / FC Barcelona / 
+Arenas de Getxo / Athletic Club / Deportivo La Coruña / Real Madrid / Real Unión / Sevilla / Valencia / Zaragoza
 
 
 **Respuestas:**
@@ -120,7 +120,7 @@ Athletic Club / Deportivo de La Coruña / FC Barcelona /
 -  6: Zaragoza
 -  5: Sevilla
 -  3: Real Unión
--  2: Deportivo de la Coruña
+-  2: Deportivo La Coruña
 -  1: Arenas de Getxo
 
 ---
