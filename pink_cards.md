@@ -353,7 +353,7 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 
 ![La he liado parda](assets/accepted_cards/images/pink_012-01--liado-parda.png)
 
-![caranchoa](assets/accepted_cards/images/pink_012-02--caranchoa.jpeg)
+![caranchoa](assets/accepted_cards/images/pink_012-02--caranchoa.png)
 
 ![Es mejor eso que morirse](assets/accepted_cards/images/pink_012-03--mejor-que-morirse.png)
 
