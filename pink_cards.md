@@ -112,11 +112,11 @@
 **Respuestas:**
 
 - A: Los Secretos (tema: Déjame)
-- B: Dun Can Dhu (tema: 100 gaviotas)
+- B: Duncan Dhu (tema: 100 gaviotas)
 - C: Tequila (tema: Salta)
-- D: Siniestro total (tema: Bailaré sobre tu tumba)
+- D: Siniestro Total (tema: Bailaré sobre tu tumba)
 - E: Nacha Pop (tema: Chica de ayer)
-- F: Radio Futura (tema: Escuela de Calor)
+- F: Radio Futura (tema: Escuela de calor)
 
 Afuera: Alaska, Mecano, La Unión, Hombres G
 
