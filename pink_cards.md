@@ -31,7 +31,7 @@
 
 ## **Tarjeta 002**
 **Título:** TELEVISIÓN AUTONÓMICA      
-**Consigna:** Indentifique la cadena según su logo    
+**Consigna:** Identifique la cadena según su logo    
 **Descripción:** Logos de los canales autonómicos.
 
 **Recursos:**   
@@ -51,7 +51,7 @@
 
 ## **Tarjeta 003**
 **Título:** PROGRAMAS DEL CORAZÓN      
-**Consigna:** Indentifique el programa según el presentador o presentadora    
+**Consigna:** Identifique el programa según el presentador o presentadora    
 **Descripción:** Retratos de presentadores y presentadoras.
 
 **Recursos:**  
@@ -81,7 +81,7 @@
 
 ## **Tarjeta 004**
 **Título:** LA MOVIDA     
-**Consigna:** Indentifique al artista según las canciones    
+**Consigna:** Identifique al artista según las canciones    
 **Descripción:** Letras de canciones icónicas de "La Movida".
 
 **Letras:**  
@@ -124,7 +124,7 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 
 ## **Tarjeta 005**
 **Título:** PASTA DE DIENTES     
-**Consigna:** Indentifique la pasta dental por su envase    
+**Consigna:** Identifique la pasta dental por su envase    
 **Descripción:** Dibujos de tubos de pasta dental.
 
 **Recursos:**  
@@ -156,7 +156,7 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 
 ## **Tarjeta 006**
 **Título:** OSCARIZADOS     
-**Consigna:** Indentifique la persona que ganó un premio Oscar según la película    
+**Consigna:** Identifique la persona que ganó un premio Oscar según la película    
 **Descripción:** Póster de 6 películas y nombres de personas.
 
 **Recursos:**  
@@ -274,7 +274,7 @@ A1 / A2 / A3 / A4 / A5 / A6
 
 ## **Tarjeta 010**
 **Título:** LECHES     
-**Consigna:** Indentifique la leche por su envase    
+**Consigna:** Identifique la leche por su envase    
 **Descripción:** Dibujos de las marcas de leches más conocidas.
 
 **Recursos:**  
@@ -306,7 +306,7 @@ A1 / A2 / A3 / A4 / A5 / A6
 
 ## **Tarjeta 11**
 **Título:** SIGLO DE ORO   
-**Consigna:** Indentifique el autor de la abra.    
+**Consigna:** Identifique el autor de la abra.    
 **Descripción:** Retratos (con el nombre) de poetas del siglo de Oro y título de las obras como opciones.
 
 **Opciones:**
@@ -338,7 +338,7 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 
 **Alternativa:**
 
-**NOTA:**  puede pasar celeste con estos cambios:
+**NOTA:** puede pasar celeste con estos cambios:
  - agregando a Francisco de Quevedo (La vida del Buscón) y Garcilaso de la Vega (Obras de Juan Borcán y [autor])
  - ajustando dificultad de Crevantes (Novelas ejemplares) y Lope (El caballero de Olmedo)
 
@@ -346,7 +346,7 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 
 ## **Tarjeta 12**
 **Título:** VIRAL     
-**Consigna:** Indentifique el vídeo viral por su protagonista  
+**Consigna:** Identifique el vídeo viral por su protagonista  
 **Descripción:** Fotograma icónico de un video viral o su protagonista.
 
 **Recursos:**  
@@ -377,7 +377,7 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 
 ## **Tarjeta 013**
 **Título:** CAMPANADAS  
-**Consigna:** Indentifique a la persona con quien presentó las campanadas  
+**Consigna:** Identifique a la persona con quien presentó las campanadas  
 **Descripción:** Nombre de una de las parejas del dúo y otra faltante (como la tarjeta de parejas de futbolistas).
 
 **Opciones:**

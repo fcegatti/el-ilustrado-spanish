@@ -22,7 +22,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 ## **Tarjeta 002**
 **Título:** LOS AUSTRIAS     
-**Consigna:** Indentifique los miembros de la casa real por relación de parentezco    
+**Consigna:** Identifique los miembros de la casa real por relación de parentezco    
 **Descripción:** Árbol genealógico de la casa de los Austrias con algunos nombres faltantes.
 
 **Recursos:**  
@@ -46,7 +46,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 ## **Tarjeta 003**
 **Título:** PARTIDOS POLÍTICOS     
-**Consigna:** Indentifique el nombre del partido o federación autonómicos según su logo    
+**Consigna:** Identifique el nombre del partido o federación autonómicos según su logo    
 **Descripción:** Logos de partidos políticos autonómicos (ERC, CC, Compromís, PNV, CHA, Bildu, BNG, PRC).
 
 **Recursos:**  
@@ -83,7 +83,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 ## **Tarjeta 004**
 **Título:** CHICAS ALMODÓVAR     
-**Consigna:** Indentifique la actriz según la película  
+**Consigna:** Identifique la actriz según la película  
 **Descripción:** Esquema de intersección de círculos con películas.
 
 **Recursos:**  
@@ -149,7 +149,7 @@ Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El p
 
 ## **Tarjeta 007**
 **Título:** CERVEZAS  
-**Consigna:** Indentifique la comunidad autónoma según su cerveza  
+**Consigna:** Identifique la comunidad autónoma según su cerveza  
 **Descripción:** Logos de cervezas.
 
 **Recursos:**  
@@ -173,14 +173,14 @@ Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El p
 
 **Respuestas:**
 
-- A: Valencia (Turia)
-- B: Castilla La Mancha (Calatrava)
+- A: Comunitat Valenciana (Turia)
+- B: Castilla-La Mancha (Calatrava)
 - C: Galicia (Estrella Galicia)
 - D: Andalucía (Cruzcampo)
-- E: Catalunya (Esrealla Damm)
+- E: Catalunya (Estrella Damm)
 - F: Comunidad de Madrid (Mahou)
 - G: Aragón (Ámbar)
-- H: Murcia (Estrella de Levante)
+- H: Región de Murcia (Estrella de Levante)
 
 ---
 
