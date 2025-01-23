@@ -51,22 +51,18 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 **Recursos:**  
 
-![ERC](assets/accepted_cards/images/blue_003-01--erc.png)
-
-![CC](assets/accepted_cards/images/blue_003-02--cc.png)
-
-![Compromís](assets/accepted_cards/images/blue_003-03--compromis.png)
-
-![PNV](assets/accepted_cards/images/blue_003-04--pnv.png)
-
-![CHA](assets/accepted_cards/images/blue_003-05--cha.jpg)
-
-![Junts](assets/accepted_cards/images/blue_003-06--junts.png)
-
-![BNG](assets/accepted_cards/images/blue_003-07--bng.png)
-
-![PRC](assets/accepted_cards/images/blue_003-08--prc.png)
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/blue_003-01--erc.png" alt="ERC" width="150">
+  <img src="assets/accepted_cards/images/blue_003-02--cc.png" alt="CC" width="150">
+  <img src="assets/accepted_cards/images/blue_003-03--compromis.png" alt="Compromís" width="150">
+  <img src="assets/accepted_cards/images/blue_003-04--pnv.png" alt="PNV" width="150">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/blue_003-05--cha.jpg" alt="CHA" width="150">
+  <img src="assets/accepted_cards/images/blue_003-06--junts.png" alt="Junts" width="150">
+  <img src="assets/accepted_cards/images/blue_003-07--bng.png" alt="BNG" width="150">
+  <img src="assets/accepted_cards/images/blue_003-08--prc.png" alt="PRC" width="150">
+</div>
 
 **Respuestas:**
 
@@ -154,21 +150,19 @@ Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El p
 
 **Recursos:**  
 
-![Turia](assets/accepted_cards/images/blue_007-01--turia.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/blue_007-01--turia.png" alt="Turia" width="150">
+  <img src="assets/accepted_cards/images/blue_007-02--calatrava.png" alt="Calatrava" width="150">
+  <img src="assets/accepted_cards/images/blue_007-03--estrella-galicia.jpg" alt="Estrella Galicia" width="150">
+  <img src="assets/accepted_cards/images/blue_007-04--cruzcampo.jpg" alt="Cruzcampo" width="150">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/blue_007-05--estrella-damm.jpg" alt="Estrella Damm" width="150">
+  <img src="assets/accepted_cards/images/blue_007-06--mahou.jpg" alt="Mahou" width="150">
+  <img src="assets/accepted_cards/images/blue_007-07--ambar.png" alt="Ambar" width="150">
+  <img src="assets/accepted_cards/images/blue_007-08--estrella-de-levante.png" alt="Estrella de Levante" width="150">
+</div>
 
-![Calatrava](assets/accepted_cards/images/blue_007-02--calatrava.png)
-
-![Estrella Galicia](assets/accepted_cards/images/blue_007-03--estrella-galicia.jpg)
-
-![Cruzcampo](assets/accepted_cards/images/blue_007-04--cruzcampo.jpg)
-
-![Estrella Damm](assets/accepted_cards/images/blue_007-05--estrella-damm.jpg)
-
-![Mahou](assets/accepted_cards/images/blue_007-06--mahou.jpg)
-
-![Ambar](assets/accepted_cards/images/blue_007-07--ambar.png)
-
-![Estrella de Levante](assets/accepted_cards/images/blue_007-08--estrella-de-levante.png)
 
 
 **Respuestas:**
