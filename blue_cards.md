@@ -5,7 +5,9 @@
 
 **Opciones:**
 
-El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del Postiguet/ Samil / Somorrostro
+El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del Postiguet / Samil / Somorrostro
+
+<img src="assets/accepted_cards/images/blue_001-01--playas.png" alt="PLAYAS" width="600">
 
 **Respuestas:**
 
@@ -15,8 +17,10 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 - D: La Caleta - Cádiz
 - E: La Malvarrosa - Valencia
 - F: Somorrostro - Barcelona
-- E: Playa del Postiguet - Alicante
-- F: La Malagueta - Málaga
+- G: Playa del Postiguet - Alicante
+- H: La Malagueta - Málaga
+
+<img src="assets/accepted_cards/images/blue_001-01--playas--back.png" alt="PLAYAS" width="600">
 
 ---
 
@@ -84,7 +88,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 **Recursos:**  
 
-![Esquema-Almodóvar](assets/accepted_cards/images/blue_004-01--chicas-alomodovar.png)
+![Esquema-Almodóvar](assets/accepted_cards/images/blue_004-01--chicas-almodovar.png)
 
 **Respuestas:**
 
@@ -96,7 +100,9 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 - F: Lola Dueñas
 - G: Penélope Crez
 - H: Marisa Paredes
- 
+
+![Esquema-Almodóvar](assets/accepted_cards/images/blue_004-01--chicas-almodovar--back.png)
+
 ---
 
 ## **Tarjeta 005**

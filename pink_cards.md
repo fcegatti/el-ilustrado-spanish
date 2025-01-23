@@ -251,13 +251,11 @@ ALIADA / AUCHAN / BONTÉ / EROSKI / HACENDADO / MILBONA
 **Consigna:** Identifique la autovía radial por su punto de llegada  
 **Descripción:** Mapa de la red de autovías radiales, o líneas rectas si se busca sumar dificulatad. (Reemplazar en el dibujo los nombres de las autovías y añadir las ciudades destino)
 
-**Recursos:**  
-
-<img src="assets/accepted_cards/images/pink_009-01--autovias.png" alt="AUTOVÍAS" width="600">
-
 **Opciones:**
 
 A1 / A2 / A3 / A4 / A5 / A6
+
+<img src="assets/accepted_cards/images/pink_009-01--autovias.png" alt="AUTOVÍAS" width="600">
 
 **Respuestas:**
 
@@ -267,6 +265,8 @@ A1 / A2 / A3 / A4 / A5 / A6
 - D: A4 - Puerto Real
 - E: A6 - Arteijo
 - F: A2 - Barcelona
+
+<img src="assets/accepted_cards/images/pink_009-01--autovias--back.png" alt="AUTOVÍAS" width="600">
 
 ---
 
