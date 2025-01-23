@@ -16,7 +16,7 @@
 
 **Recursos:** 
 
-![FRASES](assets/accepted_cards/images/pink_001-01--phrases.png)
+<img src="assets/accepted_cards/images/pink_001-01--phrases.png" alt="FRASES" width="600">
 
 **Respuestas:**
 
@@ -36,7 +36,7 @@
 
 **Recursos:**   
 
-![TELEVISIÓN AUTONÓMICA](assets/accepted_cards/images/pink_002-01--tv-logos.png)
+<img src="assets/accepted_cards/images/pink_002-01--tv-logos.png" alt="TELEVISIÓN AUTONÓMICA" width="400">
 
 **Respuestas:**
 
@@ -56,17 +56,16 @@
 
 **Recursos:**  
 
-![Anne Igartiburu](assets/accepted_cards/images/pink_003-01--anne-igartiburu.png)
-
-![Jaime Cantizano](assets/accepted_cards/images/pink_003-02--jaime-cantizano.jpg)
-
-![Jorge Javier Vázquez](assets/accepted_cards/images/pink_003-03--jorge-javier-vazquez.png)
-
-![Antonio Botella 'Chapis'](assets/accepted_cards/images/pink_003-04--antonio-botella.png)
-
-![Santi Acosta](assets/accepted_cards/images/pink_003-05--santi-acosta.png)
-
-![Ana Rosa Quintana](assets/accepted_cards/images/pink_003-06--ana-rosa-quintana.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_003-01--anne-igartiburu.png" alt="Anne Igartiburu" width="150">
+  <img src="assets/accepted_cards/images/pink_003-02--jaime-cantizano.jpg" alt="Jaime Cantizano" width="150">
+  <img src="assets/accepted_cards/images/pink_003-03--jorge-javier-vazquez.png" alt="Jorge Javier Vázquez" width="150">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_003-04--antonio-botella.png" alt="Antonio Botella 'Chapis'" width="150">
+  <img src="assets/accepted_cards/images/pink_003-05--santi-acosta.png" alt="Santi Acosta" width="150">
+  <img src="assets/accepted_cards/images/pink_003-06--ana-rosa-quintana.png" alt="Ana Rosa Quintana" width="150">
+</div>
 
 **Respuestas:**
 
@@ -129,17 +128,16 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 
 **Recursos:**  
 
-![Oral-B](assets/accepted_cards/images/pink_005-01--oral-b.png)
-
-![Colgate](assets/accepted_cards/images/pink_005-02--colgate.jpg)
-
-![Licor del Polo](assets/accepted_cards/images/pink_005-03--licor-del-polo.png)
-
-![Signal](assets/accepted_cards/images/pink_005-04--signal.png)
-
-![Sensodyne](assets/accepted_cards/images/pink_005-05--sensodyne.png)
-
-![Fluocaril](assets/accepted_cards/images/pink_005-06--binaca.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_005-01--oral-b.png" alt="Oral-B" width="300">
+  <img src="assets/accepted_cards/images/pink_005-02--colgate.jpg" alt="Colgate" width="300">
+  <img src="assets/accepted_cards/images/pink_005-03--licor-del-polo.png" alt="Licor del Polo" width="300">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_005-04--signal.png" alt="Signal" width="300">
+  <img src="assets/accepted_cards/images/pink_005-05--sensodyne.png" alt="Sensodyne" width="300">
+  <img src="assets/accepted_cards/images/pink_005-06--binaca.png" alt="Fluocaril" width="300">
+</div>
 
 **Respuestas:**
 
@@ -161,17 +159,17 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 
 **Recursos:**  
 
-![Vicky Cristina Barcelona](assets/accepted_cards/images/pink_006-01--vicky-cristina-barcelona.jpg)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_006-01--vicky-cristina-barcelona.jpg" alt="Vicky Cristina Barcelona" width="150">
+  <img src="assets/accepted_cards/images/pink_006-02--belle-epoque.jpg" alt="Belle Époque" width="150">
+  <img src="assets/accepted_cards/images/pink_006-03--mar-adentro.jpg" alt="Mar Adentro" width="150">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_006-04--no-es-pais-para-viejos.jpg" alt="Javier Bardem" width="150">
+  <img src="assets/accepted_cards/images/pink_006-05--el-discreto-encanto-de-la-burguesia.jpg" alt="Luis Buñuel" width="150">
+  <img src="assets/accepted_cards/images/pink_006-06--todo-sobre-mi-madre.png" alt="Pedro Almodóvar" width="150">
+</div>
 
-![Belle Époque](assets/accepted_cards/images/pink_006-02--belle-epoque.jpg)
-
-![Mar Adentro](assets/accepted_cards/images/pink_006-03--mar-adentro.jpg)
-
-![Javier Bardem](assets/accepted_cards/images/pink_006-04--no-es-pais-para-viejos.jpg)
-
-![Luis Buñuel](assets/accepted_cards/images/pink_006-05--el-discreto-encanto-de-la-burguesia.jpg)
-
-![Pedro Almodóvar](assets/accepted_cards/images/pink_006-06--todo-sobre-mi-madre.png)
 
 **Respuestas:**
 
@@ -191,17 +189,17 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 
 **Recursos:**  
 
-![Alcampo](assets/accepted_cards/images/pink_007-01--alcampo-logo.jpg)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_007-01--alcampo-logo.jpg" alt="Alcampo" width="250">
+  <img src="assets/accepted_cards/images/pink_007-02--el-corte-ingles-logo.png" alt="Aliada" width="250">
+  <img src="assets/accepted_cards/images/pink_007-03--dia-logo.png" alt="Bonté" width="250">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_007-04--lidl-logo.png" alt="Milbona" width="250">
+  <img src="assets/accepted_cards/images/pink_007-05--eroski-logo.svg" alt="Eroski" width="250">
+  <img src="assets/accepted_cards/images/pink_007-06--mercadona-logo.jpg" alt="Hacendado" width="250">
+</div>
 
-![Aliada](assets/accepted_cards/images/pink_007-02--el-corte-ingles-logo.png)
-
-![Bonté](assets/accepted_cards/images/pink_007-03--dia-logo.png)
-
-![Milbona](assets/accepted_cards/images/pink_007-04--lidl-logo.png)
-
-![Eroski](assets/accepted_cards/images/pink_007-05--eroski-logo.svg)
-
-![Hacendado](assets/accepted_cards/images/pink_007-06--mercadona-logo.jpg)
 
 **Opciones:**
 
@@ -225,17 +223,17 @@ ALIADA / AUCHAN / BONTÉ / EROSKI / HACENDADO / MILBONA
 
 **Recursos:**  
 
-![Bisonte](assets/accepted_cards/images/pink_008-01--bisonte.jpeg)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_008-01--bisonte.jpeg" alt="Bisonte" width="200">
+  <img src="assets/accepted_cards/images/pink_008-02--lucky-strike.jpg" alt="Lucky Strike" width="200">
+  <img src="assets/accepted_cards/images/pink_008-03--nobel.jpg" alt="Nobel" width="200">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_008-04--winston.jpg" alt="Winston" width="200">
+  <img src="assets/accepted_cards/images/pink_008-05--fortuna.png" alt="Fortuna" width="200">
+  <img src="assets/accepted_cards/images/pink_008-06--ducados.jpg" alt="Ducados" width="200">
+</div>
 
-![Lucky Strike](assets/accepted_cards/images/pink_008-02--lucky-strike.jpg)
-
-![Nobel](assets/accepted_cards/images/pink_008-03--nobel.jpg)
-
-![Winston](assets/accepted_cards/images/pink_008-04--winston.jpg)
-
-![Fortuna](assets/accepted_cards/images/pink_008-05--fortuna.png)
-
-![Ducados](assets/accepted_cards/images/pink_008-06--ducados.jpg)
 
 **Respuestas:**
 
@@ -255,7 +253,7 @@ ALIADA / AUCHAN / BONTÉ / EROSKI / HACENDADO / MILBONA
 
 **Recursos:**  
 
-![Autovias](assets/accepted_cards/images/pink_009-01--autovias.jpg)
+<img src="assets/accepted_cards/images/pink_009-01--autovias.png" alt="AUTOVÍAS" width="600">
 
 **Opciones:**
 
@@ -263,12 +261,12 @@ A1 / A2 / A3 / A4 / A5 / A6
 
 **Respuestas:**
 
-- A: A1 - Lasarte / Oria
-- B: A2 - Barcelona
-- C: A3 . Valencia
+- A: A3 . Valencia
+- B: A5 - Portugal
+- C: A1 - Lasarte / Oria
 - D: A4 - Puerto Real
-- E: A5 - Portugal
-- F: A6 - Arteijo
+- E: A6 - Arteijo
+- F: A2 - Barcelona
 
 ---
 
@@ -279,17 +277,17 @@ A1 / A2 / A3 / A4 / A5 / A6
 
 **Recursos:**  
 
-![Puleva](assets/accepted_cards/images/pink_010-01--puleva.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_010-01--puleva.png" alt="Puleva" width="250">
+  <img src="assets/accepted_cards/images/pink_010-02--kaiku.jpg" alt="Kaiku" width="250">
+  <img src="assets/accepted_cards/images/pink_010-03--asturiana.png" alt="Asturiana" width="250">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_010-04--clesa.png" alt="Clesa" width="250">
+  <img src="assets/accepted_cards/images/pink_010-05--hacendado.jpg" alt="El Buen Pastor" width="250">
+  <img src="assets/accepted_cards/images/pink_010-06--pascual.png" alt="Pascual" width="250">
+</div>
 
-![Kaiku](assets/accepted_cards/images/pink_010-02--kaiku.jpg)
-
-![Asturiana](assets/accepted_cards/images/pink_010-03--asturiana.png)
-
-![Clesa](assets/accepted_cards/images/pink_010-04--clesa.png)
-
-![El Buen Pastor](assets/accepted_cards/images/pink_010-05--hacendado.jpg)
-
-![Pascual](assets/accepted_cards/images/pink_010-06--pascual.png)
 
 **Respuestas:**
 
@@ -315,17 +313,16 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 
 **Recursos:**  
 
-![Pedro Calderón de la Barca](assets/accepted_cards/images/pink_011-01--calderon.jpg)
-
-![Miguel de Cervantes](assets/accepted_cards/images/pink_011-02--cervantes.jpg)
-
-![Anónimo](assets/accepted_cards/images/pink_011-03--anonimo.jpg)
-
-![Luis de Góngora](assets/accepted_cards/images/pink_011-04--gongora.jpg)
-
-![Sor Juana Inés de la Cruz](assets/accepted_cards/images/pink_011-05--juana.jpg)
-
-![Lope de Vega](assets/accepted_cards/images/pink_011-06--lope.jpg)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_011-01--calderon.jpg" alt="Pedro Calderón de la Barca" width="200">
+  <img src="assets/accepted_cards/images/pink_011-02--cervantes.jpg" alt="Miguel de Cervantes" width="200">
+  <img src="assets/accepted_cards/images/pink_011-03--anonimo.jpg" alt="Anónimo" width="200">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_011-04--gongora.jpg" alt="Luis de Góngora" width="200">
+  <img src="assets/accepted_cards/images/pink_011-05--juana.jpg" alt="Sor Juana Inés de la Cruz" width="200">
+  <img src="assets/accepted_cards/images/pink_011-06--lope.jpg" alt="Lope de Vega" width="200">
+</div>
 
 **Respuestas:**
 
@@ -351,17 +348,16 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 
 **Recursos:**  
 
-![La he liado parda](assets/accepted_cards/images/pink_012-01--liado-parda.png)
-
-![caranchoa](assets/accepted_cards/images/pink_012-02--caranchoa.png)
-
-![Es mejor eso que morirse](assets/accepted_cards/images/pink_012-03--mejor-que-morirse.png)
-
-![Droja en el cola-cao](assets/accepted_cards/images/pink_012-04--droja-cola-cao.png)
-
-![Venga, venga... que viene el fuego](assets/accepted_cards/images/pink_012-05--viene-el-fuego.png)
-
-![Pim, pam, toma lacasitos](assets/accepted_cards/images/pink_012-06--toma-lacasitos.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_012-01--liado-parda.png" alt="La he liado parda" width="275">
+  <img src="assets/accepted_cards/images/pink_012-02--caranchoa.png" alt="caranchoa" width="275">
+  <img src="assets/accepted_cards/images/pink_012-03--mejor-que-morirse.png" alt="Es mejor eso que morirse" width="275">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_012-04--droja-cola-cao.png" alt="Droja en el cola-cao" width="275">
+  <img src="assets/accepted_cards/images/pink_012-05--viene-el-fuego.png" alt="Venga, venga... que viene el fuego" width="275">
+  <img src="assets/accepted_cards/images/pink_012-06--toma-lacasitos.png" alt="Pim, pam, toma lacasitos" width="275">
+</div>
 
 
 **Respuestas:**
@@ -378,8 +374,9 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 ## **Tarjeta 013**
 **Título:** CAMPANADAS  
 **Consigna:** Identifique a la persona con quien presentó las campanadas  
-**Descripción:** Nombre de una de las parejas del dúo y otra faltante (como la tarjeta de parejas de futbolistas).
+**Descripción:** Nombre de una de las parejas del dúo y otra faltante.
 
+ 
 **Opciones:**
 
 - A: Raffaella Carrà (R. G.)
@@ -389,6 +386,8 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - E: Dani Mateo (C. P.)
 - F: Roberto Leal (A. I)
 
+<img src="assets/accepted_cards/images/pink_013-01--campanadas.png" alt="AUTOVÍAS" width="600">
+
 **Respuestas:**
 
 - A: Ramón García
@@ -397,6 +396,8 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - D: David Broncano
 - E: Cristina Pardo
 - F: Anne Igartiburu
+
+<img src="assets/accepted_cards/images/pink_013-01--campanadas--back.png" alt="AUTOVÍAS" width="600">
 
 ---
 
@@ -414,6 +415,8 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - E: "Abril..."
 - F: "A caballo regalado..."
 
+<img src="assets/accepted_cards/images/pink_014-01--refranes.png" alt="REFRANES" width="600">
+
 **Respuestas:**
 
 - A: "...ande o no ande"
@@ -422,6 +425,8 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - D: "...hasta la sepultura"
 - E: "...luvias mil"
 - F: "...No le mires el diente"
+
+<img src="assets/accepted_cards/images/pink_014-01--refranes--back.png" alt="REFRANES" width="600">
 
 **Alternativas:** (dejadas fuera con dolor)
 
@@ -451,6 +456,8 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - E: "Qué risa, tía..."
 - F: "En fin..."
 
+<img src="assets/accepted_cards/images/pink_015-01--nombres.png" alt="NOMBRES QUE RIMAN" width="600">
+
 **Respuestas:**
 
 - A: "Maribel"
@@ -459,5 +466,7 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - D: "Andrés"
 - E: "Felisa"
 - F: "Serafín"
+
+<img src="assets/accepted_cards/images/pink_015-01--nombres--back.png" alt="NOMBRES QUE RIMAN" width="600">
 
 ---
