@@ -138,7 +138,9 @@ Arenas de Getxo / Athletic Club / Deportivo La Coruña / Real Madrid / Real Uni�
 
 **Opciones:**  
 
-Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El poder del deseo / Marisol Rumbo a Río / Solo los dos / Tómbola / Un rayo de luz 
+Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El poder del deseo / Marisol Rumbo a Río / Solo los dos / Tómbola / Un rayo de luz
+
+<img src="assets/accepted_cards/images/blue_006-01--marisol.png" alt="MARISOL" width="600">
 
 **Respuestas:**
 
@@ -150,6 +152,8 @@ Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El p
 - 1969: Carola de día, Carola de noche
 - 1975: El poder del deseo
 - 1981: Bodas de Sangre
+
+<img src="assets/accepted_cards/images/blue_006-01--marisol--back.png" alt="MARISOL" width="600">
 
 ---
 

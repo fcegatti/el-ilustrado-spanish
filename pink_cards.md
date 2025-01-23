@@ -107,6 +107,7 @@
  - "Hace falta valor, hace falta valor
     ven a la escuela de calor"
 
+<img src="assets/accepted_cards/images/pink_004-01--la-movida.png" alt="LA MOVIDA" width="600">
 
 **Respuestas:**
 
@@ -116,6 +117,8 @@
 - D: Siniestro Total (tema: Bailaré sobre tu tumba)
 - E: Nacha Pop (tema: Chica de ayer)
 - F: Radio Futura (tema: Escuela de calor)
+
+<img src="assets/accepted_cards/images/pink_004-01--la-movida--back.png" alt="LA MOVIDA" width="600">
 
 Afuera: Alaska, Mecano, La Unión, Hombres G
 
