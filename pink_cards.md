@@ -421,7 +421,7 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - C: "...mona se queda"
 - D: "...hasta la sepultura"
 - E: "...luvias mil"
-- F: "...No le mieres el diente"
+- F: "...No le mires el diente"
 
 **Alternativas:** (dejadas fuera con dolor)
 
