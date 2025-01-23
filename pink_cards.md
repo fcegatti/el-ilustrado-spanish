@@ -460,16 +460,4 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - E: "Felisa"
 - F: "Serafín"
 
-**Alternativas:** (dejadas fuera con dolor)
-
-- "Hay más días --- que longanizas"
-- "Oveja que bala --- bocado que pierde"
-- "Libro cerrado --- no saca letrado"
-- "Quien a buen árbol se arrima --- buena sombra le cobija"
-- "Santa Rita Rita --- lo que se da no se quita"
-- "Tanto va el cántaro a la fuente --- que al final se rompe"
-- "Haz el bien --- y no mires a quién"
-- "Muerto el perro --- se acabó la rabia"
-- "Nunca es tarde --- si la dicha es buena"
-
 ---
