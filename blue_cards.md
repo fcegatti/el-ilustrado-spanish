@@ -31,7 +31,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 **Recursos:**  
 
-![Árbol genealógico](assets/accepted_cards/images/blue_002-01--austrias.png)
+<img src="assets/accepted_cards/images/blue_002-01--austrias.png" alt="LOS AUSTRIASAS" width="600">
 
 - Borrar los nombres que figuran en las respuestas
 
@@ -88,7 +88,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 **Recursos:**  
 
-![Esquema-Almodóvar](assets/accepted_cards/images/blue_004-01--chicas-almodovar.png)
+<img src="assets/accepted_cards/images/blue_004-01--chicas-almodovar.png" alt="CHICAS ALMODÓVAR" width="600">
 
 **Respuestas:**
 
@@ -101,7 +101,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 - G: Penélope Crez
 - H: Marisa Paredes
 
-![Esquema-Almodóvar](assets/accepted_cards/images/blue_004-01--chicas-almodovar--back.png)
+<img src="assets/accepted_cards/images/blue_004-01--chicas-almodovar--back.png" alt="CHICAS ALMODÓVAR" width="600">
 
 ---
 
@@ -114,6 +114,8 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 Arenas de Getxo / Athletic Club / Deportivo La Coruña / Real Madrid / Real Unión / Sevilla / Valencia / Zaragoza
 
+<img src="assets/accepted_cards/images/blue_005-01--copa-del-rey.png" alt="COPA DEL REY" width="600">
+
 **Respuestas:**
 
 - 24: Athletic Club
@@ -124,6 +126,8 @@ Arenas de Getxo / Athletic Club / Deportivo La Coruña / Real Madrid / Real Uni�
 -  3: Real Unión
 -  2: Deportivo La Coruña
 -  1: Arenas de Getxo
+
+<img src="assets/accepted_cards/images/blue_005-01--copa-del-rey--back.png" alt="COPA DEL REY" width="600">
 
 ---
 
@@ -193,6 +197,8 @@ Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El p
 
 ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ / PEDRO ALMODÓVAR / PENÉLOPE CRUZ / RODRIGO SOROGOYEN / VERÓNICA FORQUÉ
 
+<img src="assets/accepted_cards/images/blue_008-01--goyas.png" alt="GOYAS" width="600">
+
 **Respuestas:**
 
 - A: Pedro Almodóvar (10)
@@ -203,6 +209,8 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 - F: Verónica Forqué (4)
 - G: Penélope Cruz (3)
 - H: Maribel Verdú (2)
+
+<img src="assets/accepted_cards/images/blue_008-01--goyas--back.png" alt="GOYAS" width="600">
 
 **NOTA:** Puede hacerse con películas, se desactualiza menos.
 
