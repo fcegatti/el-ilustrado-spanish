@@ -447,8 +447,8 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 
 ## **Tarjeta 015**
 **Título:** NOMBRES QUE RIMAN  
-**Consigna:** Indentifique el nombre en la rima popular
-**Descripción:** Expresiones humorísticas populares con el nombre faltante.
+**Consigna:** Identifique el nombre en la rima popular  
+**Descripción:** Expresiones humorísticas porpulares con el nombre faltante.
 
 **Opciones:**
 
