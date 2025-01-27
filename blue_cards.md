@@ -31,7 +31,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 **Recursos:**  
 
-<img src="assets/accepted_cards/images/blue_002-01--austrias.png" alt="LOS AUSTRIASAS" width="600">
+<img src="assets/accepted_cards/images/blue_002-01--austrias.png" alt="LOS AUSTRIAS" width="600">
 
 **Respuestas:**
 
@@ -43,6 +43,8 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 - F: Margarita de Austria
 - G: Felipe IV "el Grande"
 - H: Carlos II "el Hechizado"
+
+<img src="assets/accepted_cards/images/blue_002-01--austrias--back.png" alt="LOS AUSTRIAS" width="600">
 
 ---
 

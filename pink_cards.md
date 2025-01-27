@@ -8,25 +8,26 @@
 **Opciones:**
 
 - A: "Yo he venido aquí a hablar de mi libro."
-- B: "Si me queréis, irse."
-- C: "Yo por mi hija MA-TO."
-- D: "¿Por qué no te callas?"
-- E: "¡Dientes, dientes, que es lo que les jode!"
+- B: "¡Dientes, dientes, que es lo que les jode!"
+- C: "Si me queréis, irse."
+- D: "Yo por mi hija MA-TO."
+- E: "¿Por qué no te callas?"
 - F: "En dos palabras: im-presionante." 
 
 **Recursos:** 
 
-<img src="assets/accepted_cards/images/pink_001-01--phrases.png" alt="FRASES" width="600">
+<img src="assets/accepted_cards/images/pink_001-01--frases.png" alt="FRASES" width="600">
 
 **Respuestas:**
 
 - A: Paco Umbral
 - B: Lola Flores
-- C: Belén Esteban
-- D: Juan Carlos de Borbón
-- E: Isabel Pantoja
+- C: Isabel Pantoja
+- D: Belén Esteban
+- E: Juan Carlos de Borbón
 - F: Jesulín de Ubrique
 
+<img src="assets/accepted_cards/images/pink_001-01--frases--back.png" alt="FRASES" width="600">
 ---
 
 ## **Tarjeta 002**
