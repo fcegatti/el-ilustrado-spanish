@@ -33,8 +33,6 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 <img src="assets/accepted_cards/images/blue_002-01--austrias.png" alt="LOS AUSTRIASAS" width="600">
 
-- Borrar los nombres que figuran en las respuestas
-
 **Respuestas:**
 
 - A: Felipe I de Castilla "el Hermoso"
