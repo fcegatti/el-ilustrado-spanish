@@ -7,7 +7,7 @@
 
 El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del Postiguet / Samil / Somorrostro
 
-<img src="assets/accepted_cards/images/blue_001-01--playas.png" alt="PLAYAS" width="600">
+<img src="assets/accepted_cards/images/blue_001.webp" alt="PLAYAS" width="600">
 
 **Respuestas:**
 
@@ -20,7 +20,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 - G: Playa del Postiguet - Alicante
 - H: La Malagueta - Málaga
 
-<img src="assets/accepted_cards/images/blue_001-01--playas--back.png" alt="PLAYAS" width="600">
+<img src="assets/accepted_cards/images/blue_001--back.webp" alt="PLAYAS" width="600">
 
 ---
 
@@ -31,7 +31,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 **Recursos:**  
 
-<img src="assets/accepted_cards/images/blue_002-01--austrias.png" alt="LOS AUSTRIAS" width="600">
+<img src="assets/accepted_cards/images/blue_002.webp" alt="LOS AUSTRIAS" width="600">
 
 **Respuestas:**
 
@@ -44,7 +44,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 - G: Felipe IV "el Grande"
 - H: Carlos II "el Hechizado"
 
-<img src="assets/accepted_cards/images/blue_002-01--austrias--back.png" alt="LOS AUSTRIAS" width="600">
+<img src="assets/accepted_cards/images/blue_002--back.webp" alt="LOS AUSTRIAS" width="600">
 
 ---
 
@@ -88,7 +88,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 **Recursos:**  
 
-<img src="assets/accepted_cards/images/blue_004-01--chicas-almodovar.png" alt="CHICAS ALMODÓVAR" width="600">
+<img src="assets/accepted_cards/images/blue_004.webp" alt="CHICAS ALMODÓVAR" width="600">
 
 **Respuestas:**
 
@@ -101,7 +101,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 - G: Penélope Crez
 - H: Marisa Paredes
 
-<img src="assets/accepted_cards/images/blue_004-01--chicas-almodovar--back.png" alt="CHICAS ALMODÓVAR" width="600">
+<img src="assets/accepted_cards/images/blue_004--back.webp" alt="CHICAS ALMODÓVAR" width="600">
 
 ---
 
@@ -114,7 +114,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 Arenas de Getxo / Athletic Club / Deportivo La Coruña / Real Madrid / Real Unión / Sevilla / Valencia / Zaragoza
 
-<img src="assets/accepted_cards/images/blue_005-01--copa-del-rey.png" alt="COPA DEL REY" width="600">
+<img src="assets/accepted_cards/images/blue_005.webp" alt="COPA DEL REY" width="600">
 
 **Respuestas:**
 
@@ -127,7 +127,7 @@ Arenas de Getxo / Athletic Club / Deportivo La Coruña / Real Madrid / Real Uni�
 -  2: Deportivo La Coruña
 -  1: Arenas de Getxo
 
-<img src="assets/accepted_cards/images/blue_005-01--copa-del-rey--back.png" alt="COPA DEL REY" width="600">
+<img src="assets/accepted_cards/images/blue_005--back.webp" alt="COPA DEL REY" width="600">
 
 ---
 
@@ -140,7 +140,7 @@ Arenas de Getxo / Athletic Club / Deportivo La Coruña / Real Madrid / Real Uni�
 
 Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El poder del deseo / Marisol Rumbo a Río / Solo los dos / Tómbola / Un rayo de luz
 
-<img src="assets/accepted_cards/images/blue_006-01--marisol.png" alt="MARISOL" width="600">
+<img src="assets/accepted_cards/images/blue_006.webp" alt="MARISOL" width="600">
 
 **Respuestas:**
 
@@ -153,7 +153,7 @@ Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El p
 - 1975: El poder del deseo
 - 1981: Bodas de Sangre
 
-<img src="assets/accepted_cards/images/blue_006-01--marisol--back.png" alt="MARISOL" width="600">
+<img src="assets/accepted_cards/images/blue_006--back.webp" alt="MARISOL" width="600">
 
 ---
 
@@ -201,7 +201,7 @@ Bodas de sangre / Búsqueme a esa chica / Carola de día, Carola de noche / El p
 
 ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ / PEDRO ALMODÓVAR / PENÉLOPE CRUZ / RODRIGO SOROGOYEN / VERÓNICA FORQUÉ
 
-<img src="assets/accepted_cards/images/blue_008-01--goyas.png" alt="GOYAS" width="600">
+<img src="assets/accepted_cards/images/blue_008.webp" alt="GOYAS" width="600">
 
 **Respuestas:**
 
@@ -214,7 +214,7 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 - G: Penélope Cruz (3)
 - H: Maribel Verdú (2)
 
-<img src="assets/accepted_cards/images/blue_008-01--goyas--back.png" alt="GOYAS" width="600">
+<img src="assets/accepted_cards/images/blue_008--back.webp" alt="GOYAS" width="600">
 
 **NOTA:** Puede hacerse con películas, se desactualiza menos.
 
