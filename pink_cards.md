@@ -16,7 +16,7 @@
 
 **Recursos:** 
 
-<img src="assets/accepted_cards/images/pink_001-01--frases.png" alt="FRASES" width="600">
+<img src="assets/accepted_cards/images/pink_001.webp" alt="FRASES" width="600">
 
 **Respuestas:**
 
@@ -27,7 +27,7 @@
 - E: Juan Carlos de Borbón
 - F: Jesulín de Ubrique
 
-<img src="assets/accepted_cards/images/pink_001-01--frases--back.png" alt="FRASES" width="600">
+<img src="assets/accepted_cards/images/pink_001--back.webp" alt="FRASES" width="600">
 ---
 
 ## **Tarjeta 002**
@@ -108,7 +108,7 @@
  - "Hace falta valor, hace falta valor
     ven a la escuela de calor"
 
-<img src="assets/accepted_cards/images/pink_004-01--la-movida.png" alt="LA MOVIDA" width="600">
+<img src="assets/accepted_cards/images/pink_004.webp" alt="LA MOVIDA" width="600">
 
 **Respuestas:**
 
@@ -119,7 +119,7 @@
 - E: Nacha Pop (tema: Chica de ayer)
 - F: Radio Futura (tema: Escuela de calor)
 
-<img src="assets/accepted_cards/images/pink_004-01--la-movida--back.png" alt="LA MOVIDA" width="600">
+<img src="assets/accepted_cards/images/pink_004--back.webp" alt="LA MOVIDA" width="600">
 
 Afuera: Alaska, Mecano, La Unión, Hombres G
 
@@ -259,7 +259,7 @@ ALIADA / AUCHAN / BONTÉ / EROSKI / HACENDADO / MILBONA
 
 A1 / A2 / A3 / A4 / A5 / A6
 
-<img src="assets/accepted_cards/images/pink_009-01--autovias.png" alt="AUTOVÍAS" width="600">
+<img src="assets/accepted_cards/images/pink_009.webp" alt="AUTOVÍAS" width="600">
 
 **Respuestas:**
 
@@ -270,7 +270,7 @@ A1 / A2 / A3 / A4 / A5 / A6
 - E: A6 - Arteijo
 - F: A2 - Barcelona
 
-<img src="assets/accepted_cards/images/pink_009-01--autovias--back.png" alt="AUTOVÍAS" width="600">
+<img src="assets/accepted_cards/images/pink_009--back.webp" alt="AUTOVÍAS" width="600">
 
 ---
 
@@ -390,18 +390,18 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - E: Dani Mateo (C. P.)
 - F: Roberto Leal (A. I)
 
-<img src="assets/accepted_cards/images/pink_013-01--campanadas.png" alt="AUTOVÍAS" width="600">
+<img src="assets/accepted_cards/images/pink_013.webp" alt="AUTOVÍAS" width="600">
 
 **Respuestas:**
 
 - A: Ramón García
 - B: Paz Padilla
-- C: Alberto Chicote
+- C: Alber
 - D: David Broncano
 - E: Cristina Pardo
 - F: Anne Igartiburu
 
-<img src="assets/accepted_cards/images/pink_013-01--campanadas--back.png" alt="AUTOVÍAS" width="600">
+<img src="assets/accepted_cards/images/pink_013--back.webp" alt="AUTOVÍAS" width="600">
 
 ---
 
@@ -419,18 +419,18 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - E: "Abril..."
 - F: "A caballo regalado..."
 
-<img src="assets/accepted_cards/images/pink_014-01--refranes.png" alt="REFRANES" width="600">
+<img src="assets/accepted_cards/images/pink_014.webp" alt="REFRANES" width="600">
 
 **Respuestas:**
 
 - A: "...ande o no ande"
-- B: "...viruelas"
+- B: "
 - C: "...mona se queda"
 - D: "...hasta la sepultura"
 - E: "...luvias mil"
 - F: "...No le mires el diente"
 
-<img src="assets/accepted_cards/images/pink_014-01--refranes--back.png" alt="REFRANES" width="600">
+<img src="assets/accepted_cards/images/pink_014--back.webp" alt="REFRANES" width="600">
 
 **Alternativas:** (dejadas fuera con dolor)
 
@@ -460,17 +460,16 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - E: "Qué risa, tía..."
 - F: "En fin..."
 
-<img src="assets/accepted_cards/images/pink_015-01--nombres.png" alt="NOMBRES QUE RIMAN" width="600">
+<img src="assets/accepted_cards/images/pink_015.webp" alt="NOMBRES QUE RIMAN" width="600">
 
 **Respuestas:**
 
 - A: "Maribel"
 - B: "Paco"
 - C: "Vicente"
-- D: "Andrés"
-- E: "Felisa"
+- D: "Andrlisa"
 - F: "Serafín"
 
-<img src="assets/accepted_cards/images/pink_015-01--nombres--back.png" alt="NOMBRES QUE RIMAN" width="600">
+<img src="assets/accepted_cards/images/pink_015--back.webp" alt="NOMBRES QUE RIMAN" width="600">
 
 ---
