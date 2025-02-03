@@ -16,7 +16,7 @@
 
 **Recursos:** 
 
-<img src="assets/accepted_cards/images/pink_001.webp" alt="FRASES" width="600">
+<img src="assets/accepted_cards/images/pink_001.webp" alt="FRASES" width="500">
 
 **Respuestas:**
 
@@ -27,7 +27,7 @@
 - E: Juan Carlos de Borbón
 - F: Jesulín de Ubrique
 
-<img src="assets/accepted_cards/images/pink_001--back.webp" alt="FRASES" width="600">
+<img src="assets/accepted_cards/images/pink_001--back.webp" alt="FRASES" width="500">
 ---
 
 ## **Tarjeta 002**
@@ -37,7 +37,7 @@
 
 **Recursos:**   
 
-<img src="assets/accepted_cards/images/pink_002-01--tv-logos.png" alt="TELEVISIÓN AUTONÓMICA" width="400">
+<img src="assets/accepted_cards/images/pink_002-01--tv-logos.png" alt="TELEVISIÓN AUTONÓMICA" width="500">
 
 **Respuestas:**
 
@@ -54,18 +54,17 @@
 **Título:** PROGRAMAS DEL CORAZÓN      
 **Consigna:** Identifique el programa según el presentador o presentadora    
 **Descripción:** Retratos de presentadores y presentadoras.
-
-**Recursos:**  
+*webp
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_003-01--anne-igartiburu.png" alt="Anne Igartiburu" width="150">
-  <img src="assets/accepted_cards/images/pink_003-02--jaime-cantizano.jpg" alt="Jaime Cantizano" width="150">
-  <img src="assets/accepted_cards/images/pink_003-03--jorge-javier-vazquez.png" alt="Jorge Javier Vázquez" width="150">
+  <img src="assets/accepted_cards/images/pink_003--01--back.webp" alt="Anne Igartiburu" width="150">
+  <img src="assets/accepted_cards/images/pink_003--02--back.webp" alt="Jaime Cantizano" width="150">
+  <img src="assets/accepted_cards/images/pink_003--03--back.webp" alt="Jorge Javier Vázquez" width="150">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_003-04--antonio-botella.png" alt="Antonio Botella 'Chapis'" width="150">
-  <img src="assets/accepted_cards/images/pink_003-05--santi-acosta.png" alt="Santi Acosta" width="150">
-  <img src="assets/accepted_cards/images/pink_003-06--ana-rosa-quintana.png" alt="Ana Rosa Quintana" width="150">
+  <img src="assets/accepted_cards/images/pink_003--04--back.webp" alt="Antonio Botella 'Chapis'" width="150">
+  <img src="assets/accepted_cards/images/pink_003--05--back.webp" alt="Santi Acosta" width="150">
+  <img src="assets/accepted_cards/images/pink_003--06--back.webp" alt="Ana Rosa Quintana" width="150">
 </div>
 
 **Respuestas:**
@@ -108,10 +107,10 @@
  - "Hace falta valor, hace falta valor
     ven a la escuela de calor"
 
-<img src="assets/accepted_cards/images/pink_004.webp" alt="LA MOVIDA" width="600">
+<img src="assets/accepted_cards/images/pink_004.webp" alt="LA MOVIDA" width="500">
 
 **Respuestas:**
-
+webp
 - A: Los Secretos (tema: Déjame)
 - B: Duncan Dhu (tema: 100 gaviotas)
 - C: Tequila (tema: Salta)
@@ -119,7 +118,7 @@
 - E: Nacha Pop (tema: Chica de ayer)
 - F: Radio Futura (tema: Escuela de calor)
 
-<img src="assets/accepted_cards/images/pink_004--back.webp" alt="LA MOVIDA" width="600">
+<img src="assets/accepted_cards/images/pink_004--back.webp" alt="LA MOVIDA" width="500">
 
 Afuera: Alaska, Mecano, La Unión, Hombres G
 
@@ -132,15 +131,15 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 
 **Recursos:**  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_005-01--oral-b.png" alt="Oral-B" width="300">
-  <img src="assets/accepted_cards/images/pink_005-02--colgate.jpg" alt="Colgate" width="300">
-  <img src="assets/accepted_cards/images/pink_005-03--licor-del-polo.png" alt="Licor del Polo" width="300">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; object-fit: contain;">
+  <img src="assets/accepted_cards/images/pink_005--01.webp" alt="Oral-B" width="200">
+  <img src="assets/accepted_cards/images/pink_005--02.webp" alt="Colgate" width="200">
+  <img src="assets/accepted_cards/images/pink_005--03.webp" alt="Licor del Polo" width="200">
 </div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_005-04--signal.png" alt="Signal" width="300">
-  <img src="assets/accepted_cards/images/pink_005-05--sensodyne.png" alt="Sensodyne" width="300">
-  <img src="assets/accepted_cards/images/pink_005-06--binaca.png" alt="Fluocaril" width="300">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; object-fit: contain;">
+  <img src="assets/accepted_cards/images/pink_005--04.webp" alt="Signal" width="200">
+  <img src="assets/accepted_cards/images/pink_005--05.webp" alt="Sensodyne" width="200">
+  <img src="assets/accepted_cards/images/pink_005--06.webp" alt="Fluocaril" width="200">
 </div>
 
 **Respuestas:**
@@ -151,6 +150,17 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 - D: Signal
 - E: Sensodyne
 - F: Binaca
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; object-fit: contain;">
+  <img src="assets/accepted_cards/images/pink_005--01--back.webp" alt="Oral-B" width="200">
+  <img src="assets/accepted_cards/images/pink_005--02--back.webp" alt="Colgate" width="200">
+  <img src="assets/accepted_cards/images/pink_005--03--back.webp" alt="Licor del Polo" width="200">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; object-fit: contain;">
+  <img src="assets/accepted_cards/images/pink_005--04--back.webp" alt="Signal" width="200">
+  <img src="assets/accepted_cards/images/pink_005--05--back.webp" alt="Sensodyne" width="200">
+  <img src="assets/accepted_cards/images/pink_005--06--back.webp" alt="Fluocaril" width="200">
+</div>
 
 **Alterntivas:** Lacer, Fluocaril, Elmex, Parodontax
 
@@ -164,14 +174,14 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 **Recursos:**  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_006-01--vicky-cristina-barcelona.jpg" alt="Vicky Cristina Barcelona" width="150">
-  <img src="assets/accepted_cards/images/pink_006-02--belle-epoque.jpg" alt="Belle Époque" width="150">
-  <img src="assets/accepted_cards/images/pink_006-03--mar-adentro.jpg" alt="Mar Adentro" width="150">
+  <img src="assets/accepted_cards/images/pink_006--01--back.webp" alt="Vicky Cristina Barcelona" width="150">
+  <img src="assets/accepted_cards/images/pink_006--02--back.webp" alt="Belle Époque" width="150">
+  <img src="assets/accepted_cards/images/pink_006--03--back.webp" alt="Mar Adentro" width="150">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_006-04--no-es-pais-para-viejos.jpg" alt="Javier Bardem" width="150">
-  <img src="assets/accepted_cards/images/pink_006-05--el-discreto-encanto-de-la-burguesia.jpg" alt="Luis Buñuel" width="150">
-  <img src="assets/accepted_cards/images/pink_006-06--todo-sobre-mi-madre.png" alt="Pedro Almodóvar" width="150">
+  <img src="assets/accepted_cards/images/pink_006--04--back.webp" alt="Javier Bardem" width="150">
+  <img src="assets/accepted_cards/images/pink_006--05--back.webp" alt="Luis Buñuel" width="150">
+  <img src="assets/accepted_cards/images/pink_006--06--back.webp" alt="Pedro Almodóvar" width="150">
 </div>
 
 
@@ -194,14 +204,14 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 **Recursos:**  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_007-01--alcampo-logo.jpg" alt="Alcampo" width="250">
-  <img src="assets/accepted_cards/images/pink_007-02--el-corte-ingles-logo.png" alt="Aliada" width="250">
-  <img src="assets/accepted_cards/images/pink_007-03--dia-logo.png" alt="Bonté" width="250">
+  <img src="assets/accepted_cards/images/pink_007--01.webp" alt="Alcampo" width="150">
+  <img src="assets/accepted_cards/images/pink_007--02.webp" alt="Aliada" width="150">
+  <img src="assets/accepted_cards/images/pink_007--03.webp" alt="Bonté" width="150">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_007-04--lidl-logo.png" alt="Milbona" width="250">
-  <img src="assets/accepted_cards/images/pink_007-05--eroski-logo.svg" alt="Eroski" width="250">
-  <img src="assets/accepted_cards/images/pink_007-06--mercadona-logo.jpg" alt="Hacendado" width="250">
+  <img src="assets/accepted_cards/images/pink_007--04.webp" alt="Milbona" width="150">
+  <img src="assets/accepted_cards/images/pink_007--05.webp" alt="Eroski" width="150">
+  <img src="assets/accepted_cards/images/pink_007--06.webp" alt="Hacendado" width="150">
 </div>
 
 
@@ -218,6 +228,17 @@ ALIADA / AUCHAN / BONTÉ / EROSKI / HACENDADO / MILBONA
 - E: Eroski - Eroski
 - F: Hacendado - Mercadona
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_007--01--back.webp" alt="Alcampo" width="150">
+  <img src="assets/accepted_cards/images/pink_007--02--back.webp" alt="Aliada" width="150">
+  <img src="assets/accepted_cards/images/pink_007--03--back.webp" alt="Bonté" width="150">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_007--04--back.webp" alt="Milbona" width="150">
+  <img src="assets/accepted_cards/images/pink_007--05--back.webp" alt="Eroski" width="150">
+  <img src="assets/accepted_cards/images/pink_007--06--back.webp" alt="Hacendado" width="150">
+</div>
+
 ---
 
 ## **Tarjeta 008**
@@ -228,14 +249,14 @@ ALIADA / AUCHAN / BONTÉ / EROSKI / HACENDADO / MILBONA
 **Recursos:**  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_008-01--bisonte.jpeg" alt="Bisonte" width="200">
-  <img src="assets/accepted_cards/images/pink_008-02--lucky-strike.jpg" alt="Lucky Strike" width="200">
-  <img src="assets/accepted_cards/images/pink_008-03--nobel.jpg" alt="Nobel" width="200">
+  <img src="assets/accepted_cards/images/pink_008--01.webp" alt="Bisonte" width="150">
+  <img src="assets/accepted_cards/images/pink_008--02.webp" alt="Lucky Strike" width="150">
+  <img src="assets/accepted_cards/images/pink_008--03.webp" alt="Nobel" width="200">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_008-04--winston.jpg" alt="Winston" width="200">
-  <img src="assets/accepted_cards/images/pink_008-05--fortuna.png" alt="Fortuna" width="200">
-  <img src="assets/accepted_cards/images/pink_008-06--ducados.jpg" alt="Ducados" width="200">
+  <img src="assets/accepted_cards/images/pink_008--04.webp" alt="Winston" width="150">
+  <img src="assets/accepted_cards/images/pink_008--05.webp" alt="Fortuna" width="150">
+  <img src="assets/accepted_cards/images/pink_008--06.webp" alt="Ducados" width="150">
 </div>
 
 
@@ -247,6 +268,17 @@ ALIADA / AUCHAN / BONTÉ / EROSKI / HACENDADO / MILBONA
 - D: Winston
 - E: Fortuna
 - F: Ducados
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_008--01--back.webp" alt="Bisonte" width="150">
+  <img src="assets/accepted_cards/images/pink_008--02--back.webp" alt="Lucky Strike" width="150">
+  <img src="assets/accepted_cards/images/pink_008--03--back.webp" alt="Nobel" width="150">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_008--04--back.webp" alt="Winston" width="150">
+  <img src="assets/accepted_cards/images/pink_008--05--back.webp" alt="Fortuna" width="150">
+  <img src="assets/accepted_cards/images/pink_008--06--back.webp" alt="Ducados" width="150">
+</div>
 
 ---
 
@@ -282,14 +314,14 @@ A1 / A2 / A3 / A4 / A5 / A6
 **Recursos:**  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_010-01--puleva.png" alt="Puleva" width="250">
-  <img src="assets/accepted_cards/images/pink_010-02--kaiku.jpg" alt="Kaiku" width="250">
-  <img src="assets/accepted_cards/images/pink_010-03--asturiana.png" alt="Asturiana" width="250">
+  <img src="assets/accepted_cards/images/pink_010--01.webp" alt="Puleva" width="250">
+  <img src="assets/accepted_cards/images/pink_010--02.webp" alt="Kaiku" width="250">
+  <img src="assets/accepted_cards/images/pink_010--03.webp" alt="Asturiana" width="250">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_010-04--clesa.png" alt="Clesa" width="250">
-  <img src="assets/accepted_cards/images/pink_010-05--hacendado.jpg" alt="El Buen Pastor" width="250">
-  <img src="assets/accepted_cards/images/pink_010-06--pascual.png" alt="Pascual" width="250">
+  <img src="assets/accepted_cards/images/pink_010--04.webp" alt="Clesa" width="250">
+  <img src="assets/accepted_cards/images/pink_010--05.webp" alt="El Buen Pastor" width="250">
+  <img src="assets/accepted_cards/images/pink_010--06.webp" alt="Pascual" width="250">
 </div>
 
 
@@ -301,6 +333,18 @@ A1 / A2 / A3 / A4 / A5 / A6
 - D: Clesa
 - E: Hacendado
 - F: Pascual
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_010--01--back.webp" alt="Puleva" width="250">
+  <img src="assets/accepted_cards/images/pink_010--02--back.webp" alt="Kaiku" width="250">
+  <img src="assets/accepted_cards/images/pink_010--03--back.webp" alt="Asturiana" width="250">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_010--04--back.webp" alt="Clesa" width="250">
+  <img src="assets/accepted_cards/images/pink_010--05--back.webp" alt="El Buen Pastor" width="250">
+  <img src="assets/accepted_cards/images/pink_010--06--back.webp" alt="Pascual" width="250">
+</div>
+
 
 **Alternativas:** El Buen Pastor, Leyma, Ato, Celta, Llet Nostra
 
@@ -318,14 +362,14 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 **Recursos:**  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_011-01--calderon.jpg" alt="Pedro Calderón de la Barca" width="200">
-  <img src="assets/accepted_cards/images/pink_011-02--cervantes.jpg" alt="Miguel de Cervantes" width="200">
-  <img src="assets/accepted_cards/images/pink_011-03--anonimo.jpg" alt="Anónimo" width="200">
+  <img src="assets/accepted_cards/images/pink_011--01--back.webp" alt="Pedro Calderón de la Barca" width="200">
+  <img src="assets/accepted_cards/images/pink_011--02--back.webp" alt="Miguel de Cervantes" width="200">
+  <img src="assets/accepted_cards/images/pink_011--03--back.webp" alt="Anónimo" width="200">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_011-04--gongora.jpg" alt="Luis de Góngora" width="200">
-  <img src="assets/accepted_cards/images/pink_011-05--juana.jpg" alt="Sor Juana Inés de la Cruz" width="200">
-  <img src="assets/accepted_cards/images/pink_011-06--lope.jpg" alt="Lope de Vega" width="200">
+  <img src="assets/accepted_cards/images/pink_011--04--back.webp" alt="Luis de Góngora" width="200">
+  <img src="assets/accepted_cards/images/pink_011--05--back.webp" alt="Sor Juana Inés de la Cruz" width="200">
+  <img src="assets/accepted_cards/images/pink_011--06--back.webp" alt="Lope de Vega" width="200">
 </div>
 
 **Respuestas:**
@@ -353,14 +397,14 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 **Recursos:**  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_012-01--liado-parda.png" alt="La he liado parda" width="275">
-  <img src="assets/accepted_cards/images/pink_012-02--caranchoa.png" alt="caranchoa" width="275">
-  <img src="assets/accepted_cards/images/pink_012-03--mejor-que-morirse.png" alt="Es mejor eso que morirse" width="275">
+  <img src="assets/accepted_cards/images/pink_012--01--back.webp" alt="La he liado parda" width="275">
+  <img src="assets/accepted_cards/images/pink_012--02--back.webp" alt="caranchoa" width="275">
+  <img src="assets/accepted_cards/images/pink_012--03--back.webp" alt="Es mejor eso que morirse" width="275">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_012-04--droja-cola-cao.png" alt="Droja en el cola-cao" width="275">
-  <img src="assets/accepted_cards/images/pink_012-05--viene-el-fuego.png" alt="Venga, venga... que viene el fuego" width="275">
-  <img src="assets/accepted_cards/images/pink_012-06--toma-lacasitos.png" alt="Pim, pam, toma lacasitos" width="275">
+  <img src="assets/accepted_cards/images/pink_012--04--back.webp" alt="Droja en el cola-cao" width="275">
+  <img src="assets/accepted_cards/images/pink_012--05--back.webp" alt="Venga, venga... que viene el fuego" width="275">
+  <img src="assets/accepted_cards/images/pink_012--06--back.webp" alt="Pim, pam, toma lacasitos" width="275">
 </div>
 
 
