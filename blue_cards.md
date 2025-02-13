@@ -232,3 +232,156 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 **NOTA:** Puede hacerse con películas, se desactualiza menos.
 
 ---
+
+## **Tarjeta 008**
+**Título:** CIGARRILLOS     
+**Consigna:** Identifique las marcas de tabaco  
+**Descripción:** Dibujos de cajetillas de tabaco
+
+**Recursos:**  
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_008--01.webp" alt="Bisonte" width="150">
+  <img src="assets/accepted_cards/images/pink_008--02.webp" alt="Lucky Strike" width="150">
+  <img src="assets/accepted_cards/images/pink_008--03.webp" alt="Nobel" width="200">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_008--04.webp" alt="Winston" width="150">
+  <img src="assets/accepted_cards/images/pink_008--05.webp" alt="Fortuna" width="150">
+  <img src="assets/accepted_cards/images/pink_008--06.webp" alt="Ducados" width="150">
+</div>
+
+
+**Respuestas:**
+
+- A: Bisonte
+- B: Lucky Strike
+- C: Nobel
+- D: Winston
+- E: Fortuna
+- F: Ducados
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_008--01--back.webp" alt="Bisonte" width="150">
+  <img src="assets/accepted_cards/images/pink_008--02--back.webp" alt="Lucky Strike" width="150">
+  <img src="assets/accepted_cards/images/pink_008--03--back.webp" alt="Nobel" width="150">
+  <img src="assets/accepted_cards/images/pink_008--04--back.webp" alt="Winston" width="150">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_008--05--back.webp" alt="Fortuna" width="150">
+  <img src="assets/accepted_cards/images/pink_008--06--back.webp" alt="Ducados" width="150">
+  <img src="assets/accepted_cards/images/pink_008--05--back.webp" alt="Fortuna" width="150">
+  <img src="assets/accepted_cards/images/pink_008--06--back.webp" alt="Ducados" width="150">
+</div>
+
+---
+
+## **Tarjeta 001**
+**Título:** FRASES     
+**Consigna:** Identifique la persona que dijo la frase    
+**Descripción:** Seis globos con frases muy conocidas de personalidades o personajes mediáticos.
+
+**Opciones:**
+
+- A: "Yo he venido aquí a hablar de mi libro."
+- B: "¡Dientes, dientes, que es lo que les jode!"
+- C: "Si me queréis, irse."
+- D: "Yo por mi hija MA-TO."
+- E: "¿Por qué no te callas?"
+- F: "En dos palabras: im-presionante." 
+
+**Recursos:** 
+
+<img src="assets/accepted_cards/images/pink_001.webp" alt="FRASES" width="500">
+
+**Respuestas:**
+
+- A: Paco Umbral
+- B: Lola Flores
+- C: Isabel Pantoja
+- D: Belén Esteban
+- E: Juan Carlos de Borbón
+- F: Jesulín de Ubrique
+
+<img src="assets/accepted_cards/images/pink_001--back.webp" alt="FRASES" width="500">
+
+---
+
+
+## **Tarjeta 004**
+**Título:** LA MOVIDA     
+**Consigna:** Identifique al artista según las canciones    
+**Descripción:** Letras de canciones icónicas de "La Movida".
+
+**Letras:**  
+
+ - "Déjame, ya no tiene sentido
+   Es mejor que sigas tu camino
+   Que yo el mío seguiré"
+
+ - "Hoy podrás beber y lamentar
+   que ya no volverán
+   sus alas a volar"
+
+ - "Yo digo salta
+   salta conmigo,
+   digo salta
+   salta conmigo"
+
+ - "Te mataré con mis zapatos de claqué
+    te asfixiaré con mi malla de ballet"
+
+ - "Me asomo a la ventana eres la chica de ayer
+    demasiado tarde para comprender"
+
+ - "Hace falta valor, hace falta valor
+    ven a la escuela de calor"
+
+<img src="assets/accepted_cards/images/pink_004.webp" alt="LA MOVIDA" width="500">
+
+**Respuestas:**
+webp
+- A: Los Secretos (tema: Déjame)
+- B: Duncan Dhu (tema: 100 gaviotas)
+- C: Tequila (tema: Salta)
+- D: Siniestro Total (tema: Bailaré sobre tu tumba)
+- E: Nacha Pop (tema: Chica de ayer)
+- F: Radio Futura (tema: Escuela de calor)
+- G: La Unión (tema: Lobo Hombre en París)
+- H: Gabinete Caligari (tema: Al calor del amor en un bar)
+
+<img src="assets/accepted_cards/images/pink_004--back.webp" alt="LA MOVIDA" width="500">
+
+Afuera: Alaska, Mecano, La Unión, Hombres G
+
+---
+
+## **Tarjeta 12**
+**Título:** VIRAL     
+**Consigna:** Identifique el vídeo viral por su protagonista  
+**Descripción:** Fotograma icónico de un video viral o su protagonista.
+
+**Recursos:**  
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_012--01--back.webp" alt="La he liado parda" width="275">
+  <img src="assets/accepted_cards/images/pink_012--02--back.webp" alt="caranchoa" width="275">
+  <img src="assets/accepted_cards/images/pink_012--03--back.webp" alt="Es mejor eso que morirse" width="275">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_012--04--back.webp" alt="Droja en el cola-cao" width="275">
+  <img src="assets/accepted_cards/images/pink_012--05--back.webp" alt="Venga, venga... que viene el fuego" width="275">
+  <img src="assets/accepted_cards/images/pink_012--06--back.webp" alt="Pim, pam, toma lacasitos" width="275">
+</div>
+
+
+**Respuestas:**
+
+- A: La he liado parda
+- B: Caranchoa
+- C: Es mejor eso que morirse
+- D: Droja en el cola-cao 
+- E: Venga, venga... ¡que viene el fuego!
+- F: Pim pam, toma Lacasitos
+
+---
