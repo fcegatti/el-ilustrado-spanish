@@ -218,7 +218,7 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 
 **Respuestas:**
 
-- A: Pedro Almodóvar (10)
+- A: Pedro Almodóvar (11)
 - B: Alejandro Amenábar (9)
 - C: Isabel Coixet (8)
 - D: Fernando Fernán Gómez (6)
@@ -233,7 +233,7 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 
 ---
 
-## **Tarjeta 008**
+## **Tarjeta 009**
 **Título:** CIGARRILLOS     
 **Consigna:** Identifique las marcas de tabaco  
 **Descripción:** Dibujos de cajetillas de tabaco
@@ -244,11 +244,13 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
   <img src="assets/accepted_cards/images/pink_008--01.webp" alt="Bisonte" width="150">
   <img src="assets/accepted_cards/images/pink_008--02.webp" alt="Lucky Strike" width="150">
   <img src="assets/accepted_cards/images/pink_008--03.webp" alt="Nobel" width="200">
+    <img src="assets/accepted_cards/images/pink_008--04.webp" alt="Winston" width="150">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_008--04.webp" alt="Winston" width="150">
   <img src="assets/accepted_cards/images/pink_008--05.webp" alt="Fortuna" width="150">
   <img src="assets/accepted_cards/images/pink_008--06.webp" alt="Ducados" width="150">
+  <img src="assets/accepted_cards/images/pink_008--05.webp" alt="Camel" width="150">
+  <img src="assets/accepted_cards/images/pink_008--06.webp" alt="L&M" width="150">
 </div>
 
 
@@ -260,6 +262,8 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 - D: Winston
 - E: Fortuna
 - F: Ducados
+- G: Camel
+- H: L&M
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="assets/accepted_cards/images/pink_008--01--back.webp" alt="Bisonte" width="150">
@@ -270,13 +274,13 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
   <img src="assets/accepted_cards/images/pink_008--05--back.webp" alt="Fortuna" width="150">
   <img src="assets/accepted_cards/images/pink_008--06--back.webp" alt="Ducados" width="150">
-  <img src="assets/accepted_cards/images/pink_008--05--back.webp" alt="Fortuna" width="150">
-  <img src="assets/accepted_cards/images/pink_008--06--back.webp" alt="Ducados" width="150">
+  <img src="assets/accepted_cards/images/pink_008--05--back.webp" alt="Camel" width="150">
+  <img src="assets/accepted_cards/images/pink_008--06--back.webp" alt="L&M" width="150">
 </div>
 
 ---
 
-## **Tarjeta 001**
+## **Tarjeta 010**
 **Título:** FRASES     
 **Consigna:** Identifique la persona que dijo la frase    
 **Descripción:** Seis globos con frases muy conocidas de personalidades o personajes mediáticos.
@@ -288,7 +292,9 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 - C: "Si me queréis, irse."
 - D: "Yo por mi hija MA-TO."
 - E: "¿Por qué no te callas?"
-- F: "En dos palabras: im-presionante." 
+- F: "En dos palabras: im-presionante."
+- G: "¡Manda huevos!"
+- H: "Siempre negativo, nunca positivo."
 
 **Recursos:** 
 
@@ -302,13 +308,14 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 - D: Belén Esteban
 - E: Juan Carlos de Borbón
 - F: Jesulín de Ubrique
+- G: Federico Trillo
+- H: Louis Van Gaal
 
 <img src="assets/accepted_cards/images/pink_001--back.webp" alt="FRASES" width="500">
 
 ---
 
-
-## **Tarjeta 004**
+## **Tarjeta 011**
 **Título:** LA MOVIDA     
 **Consigna:** Identifique al artista según las canciones    
 **Descripción:** Letras de canciones icónicas de "La Movida".
@@ -337,10 +344,18 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
  - "Hace falta valor, hace falta valor
     ven a la escuela de calor"
 
+ - "La Luna llena sobre París
+    ha transformado en hombre a Denis"
+
+ - "Los bares, qué lugares tan gratos para conversar
+    no hay como el calor del amor en un bar"
+
+  
+
 <img src="assets/accepted_cards/images/pink_004.webp" alt="LA MOVIDA" width="500">
 
 **Respuestas:**
-webp
+
 - A: Los Secretos (tema: Déjame)
 - B: Duncan Dhu (tema: 100 gaviotas)
 - C: Tequila (tema: Salta)
@@ -352,7 +367,7 @@ webp
 
 <img src="assets/accepted_cards/images/pink_004--back.webp" alt="LA MOVIDA" width="500">
 
-Afuera: Alaska, Mecano, La Unión, Hombres G
+Afuera: Alaska, Mecano, Hombres G
 
 ---
 
@@ -367,9 +382,11 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
   <img src="assets/accepted_cards/images/pink_012--01--back.webp" alt="La he liado parda" width="275">
   <img src="assets/accepted_cards/images/pink_012--02--back.webp" alt="caranchoa" width="275">
   <img src="assets/accepted_cards/images/pink_012--03--back.webp" alt="Es mejor eso que morirse" width="275">
+  <img src="assets/accepted_cards/images/pink_012--04--back.webp" alt="Droja en el cola-cao" width="275">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_012--04--back.webp" alt="Droja en el cola-cao" width="275">
+  <img src="assets/accepted_cards/images/pink_012--05--back.webp" alt="Venga, venga... que viene el fuego" width="275">
+  <img src="assets/accepted_cards/images/pink_012--06--back.webp" alt="Pim, pam, toma lacasitos" width="275">
   <img src="assets/accepted_cards/images/pink_012--05--back.webp" alt="Venga, venga... que viene el fuego" width="275">
   <img src="assets/accepted_cards/images/pink_012--06--back.webp" alt="Pim, pam, toma lacasitos" width="275">
 </div>
@@ -383,5 +400,7 @@ Afuera: Alaska, Mecano, La Unión, Hombres G
 - D: Droja en el cola-cao 
 - E: Venga, venga... ¡que viene el fuego!
 - F: Pim pam, toma Lacasitos
+- G: Drogas en la UPV
+- H: La que has liao, pollito 
 
 ---

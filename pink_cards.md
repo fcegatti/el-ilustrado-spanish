@@ -1,6 +1,6 @@
 # **El Ilustrado - Tarjetas de Presentación**
 
-## **Tarjeta 002**
+## **Tarjeta 001**
 **Título:** TELEVISIÓN AUTONÓMICA      
 **Consigna:** Identifique la cadena según su logo    
 **Descripción:** Logos de los canales autonómicos.
@@ -17,6 +17,35 @@
 - D: À Punt - Comunitat Valenciana
 - E: TVG - Galicia
 - F: Telemadrid - Comunidad de Madrid
+
+---
+
+
+## **Tarjeta 002**
+**Título:** NOMBRES QUE RIMAN  
+**Consigna:** Identifique el nombre en la rima popular  
+**Descripción:** Expresiones humorísticas porpulares con el nombre faltante.
+
+**Opciones:**
+
+- A: "Qué nivel,..."
+- B: "A saco..."
+- C: "Repelente, niño..."
+- D: "Por el interés te quiero..."
+- E: "Qué risa, tía..."
+- F: "En fin..."
+
+<img src="assets/accepted_cards/images/pink_015.webp" alt="NOMBRES QUE RIMAN" width="600">
+
+**Respuestas:**
+
+- A: "Maribel"
+- B: "Paco"
+- C: "Vicente"
+- D: "Andrlisa"
+- F: "Serafín"
+
+<img src="assets/accepted_cards/images/pink_015--back.webp" alt="NOMBRES QUE RIMAN" width="600">
 
 ---
 
@@ -45,6 +74,47 @@
 - D: Qué me dices - Antonio Botella "Chapis" 
 - E: Salsa Rosa - Santi Acosta
 - F: Extra Rosa - Ana Rosa Quintana
+
+---
+
+## **Tarjeta 004**
+**Título:** REFRANES  
+**Consigna:** Complete el refrán  
+**Descripción:** Refranes con una parte faltante.
+
+**Opciones:**
+
+- A: "Caballo grande..."
+- B: "A la vejez..."
+- C: "Aunque la mona se vista de seda..."
+- D: "Genio y figura..."
+- E: "Abril..."
+- F: "A caballo regalado..."
+
+<img src="assets/accepted_cards/images/pink_014.webp" alt="REFRANES" width="600">
+
+**Respuestas:**
+
+- A: "...ande o no ande"
+- B: "...viruelas"
+- C: "...mona se queda"
+- D: "...hasta la sepultura"
+- E: "...luvias mil"
+- F: "...no le mires el diente"
+
+<img src="assets/accepted_cards/images/pink_014--back.webp" alt="REFRANES" width="600">
+
+**Alternativas:** (dejadas fuera con dolor)
+
+- "Hay más días --- que longanizas"
+- "Oveja que bala --- bocado que pierde"
+- "Libro cerrado --- no saca letrado"
+- "Quien a buen árbol se arrima --- buena sombra le cobija"
+- "Santa Rita Rita --- lo que se da no se quita"
+- "Tanto va el cántaro a la fuente --- que al final se rompe"
+- "Haz el bien --- y no mires a quién"
+- "Muerto el perro --- se acabó la rabia"
+- "Nunca es tarde --- si la dicha es buena"
 
 ---
 
@@ -165,6 +235,45 @@ ALIADA / AUCHAN / BONTÉ / EROSKI / HACENDADO / MILBONA
 
 ---
 
+## **Tarjeta 008**
+**Título:** SIGLO DE ORO   
+**Consigna:** Identifique el autor de la abra.    
+**Descripción:** Retratos (con el nombre) de poetas del siglo de Oro y título de las obras como opciones.
+
+**Opciones:**
+
+Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es sueño / Primero sueño / Soledades 
+
+**Recursos:**  
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_011--01--back.webp" alt="Pedro Calderón de la Barca" width="200">
+  <img src="assets/accepted_cards/images/pink_011--02--back.webp" alt="Miguel de Cervantes" width="200">
+  <img src="assets/accepted_cards/images/pink_011--03--back.webp" alt="Anónimo" width="200">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_011--04--back.webp" alt="Luis de Góngora" width="200">
+  <img src="assets/accepted_cards/images/pink_011--05--back.webp" alt="Sor Juana Inés de la Cruz" width="200">
+  <img src="assets/accepted_cards/images/pink_011--06--back.webp" alt="Lope de Vega" width="200">
+</div>
+
+**Respuestas:**
+
+- A: La vida es sueño
+- B: Don Quijote de la Mancha
+- C: El Lazarillo de Tormes
+- D: Soledades
+- E: Primero Sueño
+- F: Fuenteovejuna
+
+**Alternativa:**
+
+**NOTA:** puede pasar celeste con estos cambios:
+ - agregando a Francisco de Quevedo (La vida del Buscón) y Garcilaso de la Vega (Obras de Juan Borcán y [autor])
+ - ajustando dificultad de Crevantes (Novelas ejemplares) y Lope (El caballero de Olmedo)
+
+---
+
 ## **Tarjeta 009**
 **Título:** CARRETERAS     
 **Consigna:** Identifique la autovía radial por su punto de llegada  
@@ -233,46 +342,7 @@ A1 / A2 / A3 / A4 / A5 / A6
 
 ---
 
-## **Tarjeta 11**
-**Título:** SIGLO DE ORO   
-**Consigna:** Identifique el autor de la abra.    
-**Descripción:** Retratos (con el nombre) de poetas del siglo de Oro y título de las obras como opciones.
-
-**Opciones:**
-
-Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es sueño / Primero sueño / Soledades 
-
-**Recursos:**  
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_011--01--back.webp" alt="Pedro Calderón de la Barca" width="200">
-  <img src="assets/accepted_cards/images/pink_011--02--back.webp" alt="Miguel de Cervantes" width="200">
-  <img src="assets/accepted_cards/images/pink_011--03--back.webp" alt="Anónimo" width="200">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_011--04--back.webp" alt="Luis de Góngora" width="200">
-  <img src="assets/accepted_cards/images/pink_011--05--back.webp" alt="Sor Juana Inés de la Cruz" width="200">
-  <img src="assets/accepted_cards/images/pink_011--06--back.webp" alt="Lope de Vega" width="200">
-</div>
-
-**Respuestas:**
-
-- A: La vida es sueño
-- B: Don Quijote de la Mancha
-- C: El Lazarillo de Tormes
-- D: Soledades
-- E: Primero Sueño
-- F: Fuenteovejuna
-
-**Alternativa:**
-
-**NOTA:** puede pasar celeste con estos cambios:
- - agregando a Francisco de Quevedo (La vida del Buscón) y Garcilaso de la Vega (Obras de Juan Borcán y [autor])
- - ajustando dificultad de Crevantes (Novelas ejemplares) y Lope (El caballero de Olmedo)
-
----
-
-## **Tarjeta 013**
+## **Tarjeta 011**
 **Título:** CAMPANADAS  
 **Consigna:** Identifique a la persona con quien presentó las campanadas  
 **Descripción:** Nombre de una de las parejas del dúo y otra faltante.
@@ -299,74 +369,5 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 - F: Anne Igartiburu
 
 <img src="assets/accepted_cards/images/pink_013--back.webp" alt="AUTOVÍAS" width="600">
-
----
-
-## **Tarjeta 014**
-**Título:** REFRANES  
-**Consigna:** Complete el refrán  
-**Descripción:** Refranes con una parte faltante.
-
-**Opciones:**
-
-- A: "Caballo grande..."
-- B: "A la vejez..."
-- C: "Aunque la mona se vista de seda..."
-- D: "Genio y figura..."
-- E: "Abril..."
-- F: "A caballo regalado..."
-
-<img src="assets/accepted_cards/images/pink_014.webp" alt="REFRANES" width="600">
-
-**Respuestas:**
-
-- A: "...ande o no ande"
-- B: "
-- C: "...mona se queda"
-- D: "...hasta la sepultura"
-- E: "...luvias mil"
-- F: "...No le mires el diente"
-
-<img src="assets/accepted_cards/images/pink_014--back.webp" alt="REFRANES" width="600">
-
-**Alternativas:** (dejadas fuera con dolor)
-
-- "Hay más días --- que longanizas"
-- "Oveja que bala --- bocado que pierde"
-- "Libro cerrado --- no saca letrado"
-- "Quien a buen árbol se arrima --- buena sombra le cobija"
-- "Santa Rita Rita --- lo que se da no se quita"
-- "Tanto va el cántaro a la fuente --- que al final se rompe"
-- "Haz el bien --- y no mires a quién"
-- "Muerto el perro --- se acabó la rabia"
-- "Nunca es tarde --- si la dicha es buena"
-
----
-
-## **Tarjeta 015**
-**Título:** NOMBRES QUE RIMAN  
-**Consigna:** Identifique el nombre en la rima popular  
-**Descripción:** Expresiones humorísticas porpulares con el nombre faltante.
-
-**Opciones:**
-
-- A: "Qué nivel,..."
-- B: "A saco..."
-- C: "Repelente, niño..."
-- D: "Por el interés te quiero..."
-- E: "Qué risa, tía..."
-- F: "En fin..."
-
-<img src="assets/accepted_cards/images/pink_015.webp" alt="NOMBRES QUE RIMAN" width="600">
-
-**Respuestas:**
-
-- A: "Maribel"
-- B: "Paco"
-- C: "Vicente"
-- D: "Andrlisa"
-- F: "Serafín"
-
-<img src="assets/accepted_cards/images/pink_015--back.webp" alt="NOMBRES QUE RIMAN" width="600">
 
 ---
