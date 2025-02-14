@@ -266,16 +266,16 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 - H: L&M
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_008--01--back.webp" alt="Bisonte" width="150">
-  <img src="assets/accepted_cards/images/pink_008--02--back.webp" alt="Lucky Strike" width="150">
-  <img src="assets/accepted_cards/images/pink_008--03--back.webp" alt="Nobel" width="150">
-  <img src="assets/accepted_cards/images/pink_008--04--back.webp" alt="Winston" width="150">
+  <img src="assets/accepted_cards/images/blue_009--01--back.webp" alt="Bisonte" width="150">
+  <img src="assets/accepted_cards/images/blue_009--02--back.webp" alt="Lucky Strike" width="150">
+  <img src="assets/accepted_cards/images/blue_009--03--back.webp" alt="Nobel" width="150">
+  <img src="assets/accepted_cards/images/blue_009--04--back.webp" alt="Winston" width="150">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_008--05--back.webp" alt="Fortuna" width="150">
-  <img src="assets/accepted_cards/images/pink_008--06--back.webp" alt="Ducados" width="150">
-  <img src="assets/accepted_cards/images/pink_008--05--back.webp" alt="Camel" width="150">
-  <img src="assets/accepted_cards/images/pink_008--06--back.webp" alt="L&M" width="150">
+  <img src="assets/accepted_cards/images/blue_009--05--back.webp" alt="Fortuna" width="150">
+  <img src="assets/accepted_cards/images/blue_009--06--back.webp" alt="Ducados" width="150">
+  <img src="assets/accepted_cards/images/blue_009-07--camel.jpg" alt="Camel" width="150">
+  <img src="assets/accepted_cards/images/blue_009-08--l&m.jpg" alt="L&M" width="150">
 </div>
 
 ---
@@ -298,7 +298,7 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 
 **Recursos:** 
 
-<img src="assets/accepted_cards/images/pink_001.webp" alt="FRASES" width="500">
+<img src="assets/accepted_cards/images/blue_010.webp" alt="FRASES" width="500">
 
 **Respuestas:**
 
@@ -311,11 +311,10 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 - G: Federico Trillo
 - H: Louis Van Gaal
 
-<img src="assets/accepted_cards/images/pink_001--back.webp" alt="FRASES" width="500">
+<img src="assets/accepted_cards/images/blue_010--back.webp" alt="FRASES" width="500">
+blue
 
----
-
-## **Tarjeta 011**
+#9 **Tarjeta 011**
 **Título:** LA MOVIDA     
 **Consigna:** Identifique al artista según las canciones    
 **Descripción:** Letras de canciones icónicas de "La Movida".
