@@ -241,24 +241,24 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 **Recursos:**  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_008--01.webp" alt="Bisonte" width="150">
-  <img src="assets/accepted_cards/images/pink_008--02.webp" alt="Lucky Strike" width="150">
-  <img src="assets/accepted_cards/images/pink_008--03.webp" alt="Nobel" width="200">
-    <img src="assets/accepted_cards/images/pink_008--04.webp" alt="Winston" width="150">
+  <img src="assets/accepted_cards/images/blue_009--01.webp" alt="Bisonte" width="150">
+  <img src="assets/accepted_cards/images/blue_009--02.webp" alt="Lucky Strike" width="150">
+  <img src="assets/accepted_cards/images/blue_009--03.webp" alt="Nobel" width="200">
+    <img src="assets/accepted_cards/images/blue_009--04.webp" alt="Winston" width="150">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_008--05.webp" alt="Fortuna" width="150">
-  <img src="assets/accepted_cards/images/pink_008--06.webp" alt="Ducados" width="150">
-  <img src="assets/accepted_cards/images/pink_008--05.webp" alt="Camel" width="150">
-  <img src="assets/accepted_cards/images/pink_008--06.webp" alt="L&M" width="150">
+  <img src="assets/accepted_cards/images/blue_009--05.webp" alt="Fortuna" width="150">
+  <img src="assets/accepted_cards/images/blue_009--06.webp" alt="Ducados" width="150">
+  <img src="assets/accepted_cards/images/blue_009-07--camel.jpg" alt="Camel" width="150">
+  <img src="assets/accepted_cards/images/blue_009-08--l&m.jpg" alt="L&M" width="150">
 </div>
 
 
 **Respuestas:**
 
 - A: Bisonte
-- B: Lucky Strike
-- C: Nobel
+- B: Lucky Stblue
+- 9: Nobel
 - D: Winston
 - E: Fortuna
 - F: Ducados
