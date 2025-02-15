@@ -378,16 +378,16 @@ Afuera: Alaska, Mecano, Hombres G
 **Recursos:**  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_012--01--back.webp" alt="La he liado parda" width="275">
-  <img src="assets/accepted_cards/images/pink_012--02--back.webp" alt="caranchoa" width="275">
-  <img src="assets/accepted_cards/images/pink_012--03--back.webp" alt="Es mejor eso que morirse" width="275">
-  <img src="assets/accepted_cards/images/pink_012--04--back.webp" alt="Droja en el cola-cao" width="275">
+  <img src="assets/accepted_cards/images/blue_012--01--back.webp" alt="La he liado parda" width="275">
+  <img src="assets/accepted_cards/images/blue_012--02--back.webp" alt="caranchoa" width="275">
+  <img src="assets/accepted_cards/images/blue_012--03--back.webp" alt="Es mejor eso que morirse" width="275">
+  <img src="assets/accepted_cards/images/blue_012--04--back.webp" alt="Droja en el cola-cao" width="275">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_012--05--back.webp" alt="Venga, venga... que viene el fuego" width="275">
-  <img src="assets/accepted_cards/images/pink_012--06--back.webp" alt="Pim, pam, toma lacasitos" width="275">
-  <img src="assets/accepted_cards/images/pink_012--05--back.webp" alt="Venga, venga... que viene el fuego" width="275">
-  <img src="assets/accepted_cards/images/pink_012--06--back.webp" alt="Pim, pam, toma lacasitos" width="275">
+  <img src="assets/accepted_cards/images/blue_012--05--back.webp" alt="Venga, venga... que viene el fuego" width="275">
+  <img src="assets/accepted_cards/images/blue_012--06--back.webp" alt="Pim, pam, toma lacasitos" width="275">
+  <img src="assets/accepted_cards/images/blue_012-07--drogas-en-la-UPV.png" alt="Drogas en la UPV" width="275">
+  <img src="assets/accepted_cards/images/blue_012-08--la-que-has-liao-pollito.png" alt="La que has liao pollito" width="275">
 </div>
 
 
