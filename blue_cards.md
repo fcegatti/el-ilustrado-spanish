@@ -351,7 +351,7 @@ blue
 
   
 
-<img src="assets/accepted_cards/images/pink_004.webp" alt="LA MOVIDA" width="500">
+<img src="assets/accepted_cards/images/blue_011.webp" alt="LA MOVIDA" width="500">
 
 **Respuestas:**
 
@@ -364,7 +364,7 @@ blue
 - G: La Unión (tema: Lobo Hombre en París)
 - H: Gabinete Caligari (tema: Al calor del amor en un bar)
 
-<img src="assets/accepted_cards/images/pink_004--back.webp" alt="LA MOVIDA" width="500">
+<img src="assets/accepted_cards/images/blue_011--back.webp" alt="LA MOVIDA" width="500">
 
 Afuera: Alaska, Mecano, Hombres G
 
