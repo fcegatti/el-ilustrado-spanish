@@ -5,9 +5,16 @@
 **Consigna:** Identifique la cadena según su logo    
 **Descripción:** Logos de los canales autonómicos.
 
-**Recursos:**   
-
-<img src="assets/accepted_cards/images/pink_002-01--tv-logos.png" alt="TELEVISIÓN AUTONÓMICA" width="500">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_001--01--back.webp" alt="TV3" width="150">
+  <img src="assets/accepted_cards/images/pink_001--02--back.webp" alt="ETB" width="150">
+  <img src="assets/accepted_cards/images/pink_001--03--back.webp" alt="Canal Sur" width="150">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_001--04--back.webp" alt="À Punt" width="150">
+  <img src="assets/accepted_cards/images/pink_001--05--back.webp" alt="TVG" width="150">
+  <img src="assets/accepted_cards/images/pink_001--06--back.webp" alt="Telemadrid" width="150">
+</div>
 
 **Respuestas:**
 
@@ -17,6 +24,17 @@
 - D: À Punt - Comunitat Valenciana
 - E: TVG - Galicia
 - F: Telemadrid - Comunidad de Madrid
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/accepted_cards/images/pink_001--01--back.webp" alt="TV3" width="150">
+  <img src="assets/accepted_cards/images/pink_001--02--back.webp" alt="ETB" width="150">
+  <img src="assets/accepted_cards/images/pink_001--03--back.webp" alt="Canal Sur" width="150">
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="assets/accepted_cards/images/pink_001--04--back.webp" alt="À Punt" width="150">
+  <img src="assets/accepted_cards/images/pink_001--05--back.webp" alt="TVG" width="150">
+  <img src="assets/accepted_cards/images/pink_001--06--back.webp" alt="Telemadrid" width="150">
+</div>
 
 ---
 
@@ -53,7 +71,6 @@
 **Título:** PROGRAMAS DEL CORAZÓN      
 **Consigna:** Identifique el programa según el presentador o presentadora    
 **Descripción:** Retratos de presentadores y presentadoras.
-*webp
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="assets/accepted_cards/images/pink_003--01--back.webp" alt="Anne Igartiburu" width="150">
