@@ -53,7 +53,7 @@
 - E: "Qué risa, tía..."
 - F: "En fin..."
 
-<img src="assets/accepted_cards/images/pink_015.webp" alt="NOMBRES QUE RIMAN" width="600">
+<img src="assets/accepted_cards/images/pink_002.webp" alt="NOMBRES QUE RIMAN" width="600">
 
 **Respuestas:**
 
@@ -63,7 +63,7 @@
 - D: "Andrlisa"
 - F: "Serafín"
 
-<img src="assets/accepted_cards/images/pink_015--back.webp" alt="NOMBRES QUE RIMAN" width="600">
+<img src="assets/accepted_cards/images/pink_002--back.webp" alt="NOMBRES QUE RIMAN" width="600">
 
 ---
 
