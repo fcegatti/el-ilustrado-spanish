@@ -108,7 +108,7 @@
 - E: "Abril..."
 - F: "A caballo regalado..."
 
-<img src="assets/accepted_cards/images/pink_014.webp" alt="REFRANES" width="600">
+<img src="assets/accepted_cards/images/pink_004.webp" alt="REFRANES" width="600">
 
 **Respuestas:**
 
@@ -119,7 +119,7 @@
 - E: "...luvias mil"
 - F: "...no le mires el diente"
 
-<img src="assets/accepted_cards/images/pink_014--back.webp" alt="REFRANES" width="600">
+<img src="assets/accepted_cards/images/pink_004--back.webp" alt="REFRANES" width="600">
 
 **Alternativas:** (dejadas fuera con dolor)
 
