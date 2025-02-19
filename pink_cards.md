@@ -264,14 +264,14 @@ Don Quijote de la Mancha / El Lazarillo de Tormes / Fuenteovejuna / La vida es s
 **Recursos:**  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/accepted_cards/images/pink_011--01--back.webp" alt="Pedro Calderón de la Barca" width="200">
-  <img src="assets/accepted_cards/images/pink_011--02--back.webp" alt="Miguel de Cervantes" width="200">
-  <img src="assets/accepted_cards/images/pink_011--03--back.webp" alt="Anónimo" width="200">
+  <img src="assets/accepted_cards/images/pink_008--01--back.webp" alt="Pedro Calderón de la Barca" width="200">
+  <img src="assets/accepted_cards/images/pink_008--02--back.webp" alt="Miguel de Cervantes" width="200">
+  <img src="assets/accepted_cards/images/pink_008--03--back.webp" alt="Anónimo" width="200">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="assets/accepted_cards/images/pink_011--04--back.webp" alt="Luis de Góngora" width="200">
-  <img src="assets/accepted_cards/images/pink_011--05--back.webp" alt="Sor Juana Inés de la Cruz" width="200">
-  <img src="assets/accepted_cards/images/pink_011--06--back.webp" alt="Lope de Vega" width="200">
+  <img src="assets/accepted_cards/images/pink_008--04--back.webp" alt="Luis de Góngora" width="200">
+  <img src="assets/accepted_cards/images/pink_008--05--back.webp" alt="Sor Juana Inés de la Cruz" width="200">
+  <img src="assets/accepted_cards/images/pink_008--06--back.webp" alt="Lope de Vega" width="200">
 </div>
 
 **Respuestas:**
