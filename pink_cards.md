@@ -374,7 +374,7 @@ A1 / A2 / A3 / A4 / A5 / A6
 - E: Dani Mateo (C. P.)
 - F: Roberto Leal (A. I)
 
-<img src="assets/accepted_cards/images/pink_013.webp" alt="AUTOVÍAS" width="600">
+<img src="assets/accepted_cards/images/pink_011.webp" alt="CAMPANADAS" width="600">
 
 **Respuestas:**
 
@@ -385,6 +385,6 @@ A1 / A2 / A3 / A4 / A5 / A6
 - E: Cristina Pardo
 - F: Anne Igartiburu
 
-<img src="assets/accepted_cards/images/pink_013--back.webp" alt="AUTOVÍAS" width="600">
+<img src="assets/accepted_cards/images/pink_011--back.webp" alt="CAMPANADAS" width="600">
 
 ---
