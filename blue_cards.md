@@ -403,3 +403,33 @@ Afuera: Alaska, Mecano, Hombres G
 - H: La que has liao, pollito 
 
 ---
+
+## **Tarjeta 011** ??
+**Título:** CAMPANADAS  
+**Consigna:** Identifique a la persona con quien presentó las campanadas  
+**Descripción:** Nombre de una de las parejas del dúo y otra faltante.
+
+ 
+**Opciones:**
+
+- A: Raffaella Carrà (R. G.)
+- B: Jesús Vázquez (P. P)
+- C: Cristina Pedroche (A. C.)
+- D: Lalachus (D. B)
+- E: Dani Mateo (C. P.)
+- F: Roberto Leal (A. I)
+
+<img src="assets/accepted_cards/images/pink_011.webp" alt="CAMPANADAS" width="600">
+
+**Respuestas:**
+
+- A: Ramón García
+- B: Paz Padilla
+- C: Alber
+- D: David Broncano
+- E: Cristina Pardo
+- F: Anne Igartiburu
+
+<img src="assets/accepted_cards/images/pink_011--back.webp" alt="CAMPANADAS" width="600">
+
+---
