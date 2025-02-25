@@ -404,7 +404,7 @@ Afuera: Alaska, Mecano, Hombres G
 
 ---
 
-## **Tarjeta 011** ??
+## **Tarjeta 013**
 **Título:** CAMPANADAS  
 **Consigna:** Identifique a la persona con quien presentó las campanadas  
 **Descripción:** Nombre de una de las parejas del dúo y otra faltante.
@@ -418,6 +418,8 @@ Afuera: Alaska, Mecano, Hombres G
 - D: Lalachus (D. B)
 - E: Dani Mateo (C. P.)
 - F: Roberto Leal (A. I)
+- G: Paula Vázquez (C. S.)
+- H: Josema Yuste (M. S.)
 
 <img src="assets/accepted_cards/images/pink_011.webp" alt="CAMPANADAS" width="600">
 
@@ -429,6 +431,8 @@ Afuera: Alaska, Mecano, Hombres G
 - D: David Broncano
 - E: Cristina Pardo
 - F: Anne Igartiburu
+- G: Carlos Sobera
+- H: Millán Salcedo
 
 <img src="assets/accepted_cards/images/pink_011--back.webp" alt="CAMPANADAS" width="600">
 
