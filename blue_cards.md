@@ -421,7 +421,7 @@ Afuera: Alaska, Mecano, Hombres G
 - G: Paula Vázquez (C. S.)
 - H: Josema Yuste (M. S.)
 
-<img src="assets/accepted_cards/images/pink_011.webp" alt="CAMPANADAS" width="600">
+<img src="assets/accepted_cards/images/blue_013.webp" alt="CAMPANADAS" width="600">
 
 **Respuestas:**
 
@@ -434,6 +434,6 @@ Afuera: Alaska, Mecano, Hombres G
 - G: Carlos Sobera
 - H: Millán Salcedo
 
-<img src="assets/accepted_cards/images/pink_011--back.webp" alt="CAMPANADAS" width="600">
+<img src="assets/accepted_cards/images/blue_013--back.webp" alt="CAMPANADAS" width="600">
 
 ---
