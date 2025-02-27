@@ -314,7 +314,7 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 <img src="assets/accepted_cards/images/blue_010--back.webp" alt="FRASES" width="500">
 blue
 
-#9 **Tarjeta 011**
+**Tarjeta 011**
 **Título:** LA MOVIDA     
 **Consigna:** Identifique al artista según las canciones    
 **Descripción:** Letras de canciones icónicas de "La Movida".
