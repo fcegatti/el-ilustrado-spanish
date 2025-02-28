@@ -366,8 +366,6 @@ blue
 
 <img src="assets/accepted_cards/images/blue_011--back.webp" alt="LA MOVIDA" width="500">
 
-Afuera: Alaska, Mecano, Hombres G
-
 ---
 
 ## **Tarjeta 12**
