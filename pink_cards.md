@@ -354,9 +354,6 @@ A1 / A2 / A3 / A4 / A5 / A6
   <img src="assets/accepted_cards/images/pink_010--06--back.webp" alt="Pascual" width="250">
 </div>
 
-
-**Alternativas:** El Buen Pastor, Leyma, Ato, Celta, Llet Nostra
-
 ---
 
 
