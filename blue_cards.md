@@ -26,7 +26,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 ## **Tarjeta 002**
 **Título:** LOS AUSTRIAS     
-**Consigna:** Identifique los miembros de la casa real por relación de parentezco    
+**Consigna:** Identifique a los miembros de la casa real por relación de parentezco    
 **Descripción:** Árbol genealógico de la casa de los Austrias con algunos nombres faltantes.
 
 **Recursos:**  
@@ -96,7 +96,7 @@ El Sardinero / La Caleta / La Concha / La Malagueta / La Malvarrosa / Playa del 
 
 ## **Tarjeta 004**
 **Título:** CHICAS ALMODÓVAR     
-**Consigna:** Identifique la actriz según la película  
+**Consigna:** Identifique a la actriz según la película  
 **Descripción:** Esquema de intersección de círculos con películas.
 
 **Recursos:**  
@@ -282,7 +282,7 @@ ALEJANDRO AMENÁBAR / FERNANDO FERNÁN GÓMEZ / ISABEL COIXET / MARIBEL VERDÚ /
 
 ## **Tarjeta 010**
 **Título:** FRASES     
-**Consigna:** Identifique la persona que dijo la frase    
+**Consigna:** Identifique a la persona que dijo la frase    
 **Descripción:** Seis globos con frases muy conocidas de personalidades o personajes mediáticos.
 
 **Opciones:**
