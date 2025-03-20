@@ -169,7 +169,7 @@
 
 ## **Tarjeta 006**
 **Título:** OSCARIZADOS     
-**Consigna:** Identifique la persona que ganó un premio Oscar según la película    
+**Consigna:** Identifique a la persona que ganó un premio Óscar según la película    
 **Descripción:** Póster de 6 películas y nombres de personas.
 
 **Recursos:**  
@@ -244,7 +244,7 @@ ALIADA / AUCHAN / BONTÉ / EROSKI / HACENDADO / MILBONA
 
 ## **Tarjeta 008**
 **Título:** SIGLO DE ORO   
-**Consigna:** Identifique el autor de la abra.    
+**Consigna:** Identifique al autor de la obra.    
 **Descripción:** Retratos (con el nombre) de poetas del siglo de Oro y título de las obras como opciones.
 
 **Opciones:**
