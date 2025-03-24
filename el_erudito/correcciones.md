@@ -1,2 +1,3 @@
 Secuencia	019	"⚠️Europa y Asia varían de posición en función del criterio que se use para contabilizar sus países, ya que no todos gozan de reconocimiento pleno por el resto de países y organismos internacionales
 👉Se puede dejar como está, manteniendo la arbitrariedad de Wikipedia, o rehacer la tarjeta con otra consigna"	Dudosa		Rehacer 	
+Secuencia	021	❓El grupo de libros son todos del canon literario salvo por un best-seller, el de Dan Brown. Se gana consistencia, variedad e inclusividad cambiando por otro libro del canon de una autora	Validar	-Cambio El código da Vinci por Una habitación propia de Virginia Woolf		
