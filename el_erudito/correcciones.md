@@ -6,3 +6,4 @@ Secuencia	023	❓Los precios de algunos de los metales fluctúan mucho. Aunque h
 Opción 1: Ignorar esta variabilidad menor y mantener la tarjeta solo con estos cambios
 Opción 2: Cambiar paladio por zinc o aluminio, que pasarían en último lugar. Se elimina la ambigüedad pero la tarjeta es más fácil
 Opcion 3: Revertir a tarjeta original (no recomendada)"	Opción 1 o 2	
+Secuencia	024	❓El grupo de libros son todos del canon literario salvo por un best-seller, el de Pérez-Reverte, que queda raro y además repite en otras tarjetas. Se gana consistencia, variedad e inclusividad cambiando por otro libro del canon	Validar	-Cambio La tabla de Flandes de A. Pérez-Reverte por La Plaza del Diamante de Mercè Rodoreda		
