@@ -12,3 +12,5 @@ Secuencia	051	⚠️En poco más de un año (menos de un año desde la publicaci
 Opción 2: Agregar "hasta Catar 2022" a la consigna
 Opción 3: Sustituir a C. Ronaldo
 Opción 4: Sustituirr a C. Ronaldo y a Messi	Opción 3	
+Secuencia	063	⚠️Si bien el orden es correcto, el uso de homo sapiens sapiens como división taxonómica diferenciada ha caído en desuso. Se puede bien dejar con esta imprecisión o arreglarla incluyendo en su lugar Ardipithecus (iría en primer lugar, antes de Australopithecus) que aunque existe debate sobre su lugar taxonómico está más aceptado que la división de sapines sapiens que ya fue descartada	Valorar	"Opción 1: Mantener tarjeta
+Opción 2: Cambiar Homo Sapiens Sapiens por Ardipithecus y corregir el orden"	Opción 2	
